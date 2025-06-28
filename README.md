@@ -95,20 +95,3 @@ Experienced **MERN Stack Developer** with **1+ years** of expertise in building 
 🔗 [LinkedIn Profile](https://linkedin.com/in/shahid-hasan-shovu-893930352)  
 📍 Dhaka, Bangladesh (UTC+6) | Open to relocation
 
-## 💡 Fun Fact
-When I'm not coding, you'll find me solving Rubik's cubes (PB: 1min 42sec) or contributing to open-source projects!
-
-### How to use this:
-1. Copy the entire content above
-2. Create/edit your `README.md` file in your GitHub profile repository
-3. Paste the content
-4. Commit the changes
-
-### Key Features:
-- Professional layout optimized for recruiters and hiring managers
-- Interactive badges and visual elements
-- Clear sections highlighting your expertise and achievements
-- Mobile-responsive design
-- Direct links to your important projects and contact information
-
-
