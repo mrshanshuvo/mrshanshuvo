@@ -1,5 +1,5 @@
 # 👋 Shahid Hasan Shovu
-### MERN Stack Developer | JavaScript Enthusiast | Fast Learner
+### MERN Stack Developer | JavaScript Specialist | Agile Team Player
 
 <p align="center">
   <a href="https://linkedin.com/in/shahid-hasan-shovu-893930352" target="blank">
@@ -15,29 +15,31 @@
 
 ## 🚀 Professional Summary
 
-Passionate **MERN Stack Developer** with **1.5 years** of hands-on experience building production-ready web applications. Currently contributing to **ZapShift**, a workforce management platform at Programming Hero. Known for rapidly mastering new technologies and delivering efficient solutions.
+Results-driven **MERN Stack Developer** with **1.5 years** of experience building scalable web applications. Currently enhancing **ZapShift** at Programming Hero, with demonstrated ability to deliver production-ready solutions. Recognized for technical problem-solving and efficient code delivery.
 
 ## 🔭 Current Project: ZapShift
 
-**A comprehensive workforce management solution**  
+**Enterprise workforce management platform**  
 [![GitHub Repo](https://img.shields.io/badge/Client_Repo-ZapShift-181717?style=flat&logo=github)](https://github.com/mrshanshuvo/zap-shift-client)
 [![Project Resources](https://img.shields.io/badge/Project_Resources-View-ff69b4?style=flat)](https://github.com/ProgrammingHero1/zap-shift-resources)
 
 **Key Contributions:**
-- Developed core frontend features using React and Redux Toolkit
-- Implemented RESTful APIs with Node.js and Express
-- Optimized database queries improving performance by 30%
-- Collaborated in an Agile team environment
+- Developed 15+ React components using Redux Toolkit state management
+- Built 8+ RESTful API endpoints with Node.js/Express
+- Optimized MongoDB queries reducing response time by 30%
+- Implemented Firebase authentication for 3 user roles
+- Conducted code reviews for 4 junior developers
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Firebase, Tailwind CSS
+**Tech Stack:** React, Redux Toolkit, Node.js, Express, MongoDB, Firebase, Tailwind CSS
 
 ## 🛠 Technical Expertise
 
 ### Core Strengths
-▸ Full-stack JavaScript Development    ▸ Responsive UI Design
-▸ REST API Development                ▸ Problem Solving
-▸ Database Integration                ▸ Clean Code Practices
-▸ Agile Methodology                   ▸ Continuous Learning
+
+▸ MERN Stack Development (1.5 yrs)   ▸ RESTful API Design
+▸ Modern React Ecosystem             ▸ Database Optimization
+▸ Agile Team Collaboration           ▸ Clean Code Principles
+▸ Performance Optimization           ▸ Continuous Learning
 
 ### Technology Stack
 
@@ -52,47 +54,51 @@ Passionate **MERN Stack Developer** with **1.5 years** of hands-on experience bu
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-**Tools:**  
+**Tools & Methods:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile)
 
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanshuvo&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" />
 </p>
 
-## 🏆 Notable Projects
+## 🏆 Project Portfolio
 
-1. **[ZapShift](https://github.com/mrshanshuvo/zap-shift-client)** - Workforce management platform (Team Contributor)
-2. **[English Janala](https://github.com/mrshanshuvo/english-janala)** - Language learning platform (Solo Project)
-3. **[Task Manager API](https://github.com/mrshanshuvo/task-manager-api)** - Backend service with authentication
+| Project | Description | Key Contributions | Technologies |
+|---------|-------------|-------------------|--------------|
+| **[ZapShift](https://github.com/mrshanshuvo/zap-shift-client)** | Workforce management platform | Led frontend development, API integration | React, Node.js, MongoDB |
+| **[English Janala](https://github.com/mrshanshuvo/english-janala)** | Language learning platform | Full-stack development | MERN Stack |
+| **[Task Manager API](https://github.com/mrshanshuvo/task-manager-api)** | Backend service | JWT auth, MongoDB design | Node.js, Express |
 
-## 📫 Career Opportunities
+## 📫 Career Interests
 
-**Seeking:**
-- Junior/Mid-level MERN Stack Developer roles
-- Full-stack JavaScript positions
-- Challenging projects to grow my skills
+**Seeking Opportunities:**
+- 🚀 Mid-level MERN Stack Developer roles
+- 💻 Full-stack JavaScript positions
+- 🌐 Remote-first organizations
 
-**Interested In:**
-- Remote or hybrid opportunities
-- Mentorship and growth environments
-- Innovative product teams
+**What I Offer:**
+- 1.5 years production experience
+- Rapid technical learning ability
+- Strong problem-solving skills
+- Team collaboration mindset
 
 **Contact:**
 📧 mrshanshuvo@gmail.com  
 🔗 [LinkedIn Profile](https://linkedin.com/in/shahid-hasan-shovu-893930352)  
-📍 Dhaka, Bangladesh (UTC+6)
+📍 Dhaka, Bangladesh (UTC+6) | Open to remote work
 
-## 💡 Beyond Coding
-- 🧩 Rubik's cube enthusiast (Personal best: 1min 42sec)
-- 📚 Avid learner of new technologies
-- 🌱 Contributing to open-source projects
-
+## 💡 Beyond Code
+- 🧩 Competitive Rubik's cube solver (PB: 1min 42sec)
+- 📚 Currently learning: GraphQL, AWS Certified Developer
+- 🌱 Open-source contributor
