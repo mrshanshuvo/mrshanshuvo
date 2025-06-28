@@ -1,6 +1,3 @@
-Here's the optimized version of your GitHub README that you can directly copy and paste into your `README.md` file:
-
-```markdown
 # 👋 Shahid Hasan Shovu
 ### Junior MERN Stack Developer | JavaScript Specialist
 
@@ -37,12 +34,11 @@ Experienced **MERN Stack Developer** with **1+ years** of expertise in building 
 ## 🛠 Technical Expertise
 
 ### Core Competencies
-```text
 ▸ Full-stack JavaScript Development    ▸ RESTful API Design
 ▸ Microservices Architecture          ▸ Performance Optimization
 ▸ Database Design & Optimization      ▸ CI/CD Pipelines
 ▸ Agile Development                   ▸ Technical Leadership
-```
+
 
 ### Technology Stack
 
@@ -101,7 +97,6 @@ Experienced **MERN Stack Developer** with **1+ years** of expertise in building 
 
 ## 💡 Fun Fact
 When I'm not coding, you'll find me solving Rubik's cubes (PB: 1min 42sec) or contributing to open-source projects!
-```
 
 ### How to use this:
 1. Copy the entire content above
@@ -116,4 +111,4 @@ When I'm not coding, you'll find me solving Rubik's cubes (PB: 1min 42sec) or co
 - Mobile-responsive design
 - Direct links to your important projects and contact information
 
-The README will automatically render all the visual elements when viewed on GitHub. You can further customize the project details or technology stack as needed.
+
