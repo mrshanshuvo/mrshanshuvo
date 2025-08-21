@@ -10,10 +10,15 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/mrshanshuvo?tab=repositories" target="_blank" title="View My Projects on GitHub">
-    <img src="https://img.shields.io/badge/GitHub-Projects-green?style=for-the-badge&logo=github" alt="Projects"/>
+  <a href="https://github.com/mrshanshuvo" target="_blank" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mrshanshuvo?tab=repositories" target="_blank" title="View My Projects">
+    <img src="https://img.shields.io/badge/GitHub-Projects-green?style=for-the-badge&logo=github" alt="GitHub Projects"/>
   </a>
 </p>
+
 
 
 ## 🚀 Professional Summary
