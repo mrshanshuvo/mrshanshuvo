@@ -1,5 +1,5 @@
 # 👋 Shahid Hasan Shovu
-### MERN Stack Developer | JavaScript Specialist | Agile Team Player
+### Junior Full Stack Developer | MERN Stack | React & Node.js | Problem Solver
 
 <p align="center">
   <a href="https://linkedin.com/in/shahid-hasan-shovu-893930352" target="blank">
@@ -15,44 +15,45 @@
 
 ## 🚀 Professional Summary
 
-Results-driven **MERN Stack Developer** with **1.5 years** of experience building scalable web applications. Currently enhancing **ZapShift** at Programming Hero, with demonstrated ability to deliver production-ready solutions. Recognized for technical problem-solving and efficient code delivery.
+Results-driven **MERN Stack Developer** with experience in **Python/Django** and **Machine Learning**, delivering scalable web applications. Currently working on a **Next.js web application**, with demonstrated ability to deliver production-ready solutions. Recognized for technical problem-solving and efficient code delivery.
 
-## 🔭 Current Project: ZapShift
+## 🔭 Current Project: Next.js Web Application (In Progress)
 
-**Enterprise workforce management platform**  
-[![GitHub Repo](https://img.shields.io/badge/Client_Repo-ZapShift-181717?style=flat&logo=github)](https://github.com/mrshanshuvo/zap-shift-client)
-[![Project Resources](https://img.shields.io/badge/Project_Resources-View-ff69b4?style=flat)](https://github.com/ProgrammingHero1/zap-shift-resources)
+**Enterprise-level web application (Next.js + MERN Stack)**  
 
-**Key Contributions:**
-- Developed 15+ React components using Redux Toolkit state management
-- Built 8+ RESTful API endpoints with Node.js/Express
-- Optimized MongoDB queries reducing response time by 30%
-- Implemented Firebase authentication for 3 user roles
-- Conducted code reviews for 4 junior developers
+**Key Contributions (In Progress):**
+- Developing React/Next.js components and pages
+- Building RESTful API endpoints with Node.js/Express
+- Integrating MongoDB for data storage
+- Implementing Firebase authentication
+- Optimizing performance and responsiveness
 
-**Tech Stack:** React, Redux Toolkit, Node.js, Express, MongoDB, Firebase, Tailwind CSS
+**Tech Stack:** Next.js, React, Node.js, Express, MongoDB, Firebase, Tailwind CSS
 
 ## 🛠 Technical Expertise
 
 ### Core Strengths
 
-▸ MERN Stack Development (1.5 yrs)   ▸ RESTful API Design
-▸ Modern React Ecosystem             ▸ Database Optimization
-▸ Agile Team Collaboration           ▸ Clean Code Principles
-▸ Performance Optimization           ▸ Continuous Learning
+▸ MERN Stack Development (1.5 yrs)   ▸ RESTful API Design  
+▸ Modern React Ecosystem             ▸ Database Optimization  
+▸ Agile Team Collaboration           ▸ Clean Code Principles  
+▸ Performance Optimization           ▸ Continuous Learning  
 
 ### Technology Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-**Backend:**  
+**Backend & Languages:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 **Tools & Methods:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -81,7 +82,6 @@ Results-driven **MERN Stack Developer** with **1.5 years** of experience buildin
 | **[Parcel Delivery Website](https://github.com/mrshanshuvo/parcel-delivery)** | Parcel tracking system with coverage map and responsive design | Leaflet map integration, tracking page, UI optimization | React, Tailwind CSS, Leaflet, Node.js, Express, MongoDB |
 | **[Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/mcms)** | Full MERN stack system for medical camp management with user roles and Stripe integration | Backend API development, Firebase Admin setup, Stripe payment integration | React, Node.js, Express, MongoDB, Firebase Admin, Stripe |
 
-
 ## 📫 Career Interests
 
 **Seeking Opportunities:**
@@ -104,3 +104,4 @@ Results-driven **MERN Stack Developer** with **1.5 years** of experience buildin
 - 🧩 Competitive Rubik's cube solver (PB: 1min 42sec)
 - 📚 Currently learning: GraphQL, AWS Certified Developer
 - 🌱 Open-source contributor
+- 🌱 Interests: Reading, Traveling, Outdoor Games, Organizing Programs
