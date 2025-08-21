@@ -2,16 +2,19 @@
 ### Junior Full Stack Developer | MERN Stack | React & Node.js | Problem Solver
 
 <p align="center">
-  <a href="https://linkedin.com/in/shahid-hasan-shovu-893930352" target="blank">
+  <a href="https://linkedin.com/in/shahid-hasan-shovu-893930352" target="_blank" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mrshanshuvo@gmail.com">
+  &nbsp;&nbsp;
+  <a href="mailto:mrshanshuvo@gmail.com" title="Send me an Email">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://github.com/mrshanshuvo?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View%20All-green?style=for-the-badge&logo=github" alt="Projects"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mrshanshuvo?tab=repositories" target="_blank" title="View My Projects on GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Projects-green?style=for-the-badge&logo=github" alt="Projects"/>
   </a>
 </p>
+
 
 ## 🚀 Professional Summary
 
