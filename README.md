@@ -76,9 +76,11 @@ Results-driven **MERN Stack Developer** with **1.5 years** of experience buildin
 
 | Project | Description | Key Contributions | Technologies |
 |---------|-------------|-------------------|--------------|
-| **[ZapShift](https://github.com/mrshanshuvo/zap-shift-client)** | Workforce management platform | Led frontend development, API integration | React, Node.js, MongoDB |
-| **[English Janala](https://github.com/mrshanshuvo/english-janala)** | Language learning platform | Full-stack development | MERN Stack |
-| **[Task Manager API](https://github.com/mrshanshuvo/task-manager-api)** | Backend service | JWT auth, MongoDB design | Node.js, Express |
+| **[HobbyHub](https://github.com/mrshanshuvo/hobbyhub)** | Local hobby group organizer with responsive UI and group management | User authentication, group creation, Lottie & tooltip integration | React, Tailwind CSS, Firebase, Lottie, React Tooltip |
+| **[WhereIsIt](https://github.com/mrshanshuvo/whereisit)** | Lost and found portal with item posting, recovery, and stats tracking | Backend design, Firebase & JWT authentication, API development | MERN Stack, Firebase Admin, JWT, MongoDB |
+| **[Parcel Delivery Website](https://github.com/mrshanshuvo/parcel-delivery)** | Parcel tracking system with coverage map and responsive design | Leaflet map integration, tracking page, UI optimization | React, Tailwind CSS, Leaflet, Node.js, Express, MongoDB |
+| **[Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/mcms)** | Full MERN stack system for medical camp management with user roles and Stripe integration | Backend API development, Firebase Admin setup, Stripe payment integration | React, Node.js, Express, MongoDB, Firebase Admin, Stripe |
+
 
 ## 📫 Career Interests
 
