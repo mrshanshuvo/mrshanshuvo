@@ -27,7 +27,7 @@ Results-driven **MERN Stack Developer** with experience in **Python/Django** and
 
 ## 🔭 Current Project: Next.js Web Application (In Progress)
 
-**Enterprise-level web application (Next.js + MERN Stack)**  
+**Enterprise-level web application (Next.js + MERN Stack) – Project Name: TBD**  
 
 **Key Contributions (In Progress):**
 - Developing React/Next.js components and pages
@@ -128,3 +128,4 @@ Results-driven **MERN Stack Developer** with experience in **Python/Django** and
 - 📚 Currently learning: GraphQL, AWS Certified Developer
 - 🌱 Open-source contributor
 - 🌱 Interests: Reading, Traveling, Outdoor Games, Organizing Programs
+- 🌱 Currently learning: GraphQL, AWS Certified Developer | Interests: Reading, Traveling, Outdoor Games, Organizing Programs
