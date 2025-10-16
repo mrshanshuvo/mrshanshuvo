@@ -34,7 +34,7 @@
 ## 💫 About Me
 
 Hey there! I’m **Shahid Hasan Shuvo**, a **results-driven Full Stack Developer** passionate about building efficient, scalable, and user-friendly web applications.  
-I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs using Node.js, Express, and MongoDB.  
+I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs using Node.js, Express, MongoDB, and Django REST Framework for client projects.
 
 > 💡 “Code is like humor — when you have to explain it, it’s bad.”
 
@@ -46,6 +46,7 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 - ⚙️ Exploring **GraphQL** and **AWS Developer Certification**  
 - 💻 Contributing to open-source projects  
 - 📚 Practicing **problem-solving** on HackerRank & Beecrowd  
+- 💼 Collaborating on **client projects using Django REST Framework**
 
 ---
 
@@ -67,6 +68,7 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
@@ -117,9 +119,6 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 </div>
 
 ---
-
-
-
 
 ## 📂 Featured Projects (Pinned)
 
@@ -183,9 +182,9 @@ Explore my full-stack projects, UI/UX designs, and professional journey in one i
 ## 🎯 Career Objectives
 
 **Seeking Opportunities As:**
-- Full Stack Developer (MERN Stack)
+- Full Stack Developer (MERN + Django REST)
 - Frontend Developer (React/Next.js)
-- Backend Developer (Node.js/Express)
+- Backend Developer (Node.js/Express/Django REST)
 
 **Professional Value:**
 - 1.5+ years production-level experience
