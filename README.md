@@ -122,7 +122,7 @@ I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs usin
 
 ## 📂 Featured Projects (Pinned)
 
-### 🔹 <a href="https://github.com/mrshanshuvo/mcms" target="_blank">Medical Camp Management System (MCMS)</a>
+### 🔹 Medical Camp Management System (MCMS)
 Full MERN stack system for managing medical camps with organizer & participant roles.  
 ✅ Firebase Admin setup | ✅ Stripe payment | ✅ JWT Auth  
 **Tech Stack:**  
@@ -132,11 +132,9 @@ Full MERN stack system for managing medical camps with organizer & participant r
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-🔗 <a href="https://mcms-auth.web.app/" target="_blank">Live Demo</a>
+🔗 [Live Demo](https://mcms-auth.web.app/)
 
----
-
-### 🔹 <a href="https://github.com/mrshanshuvo/whereisit" target="_blank">WhereIsIt</a>
+### 🔹 WhereIsIt
 Lost & found portal for posting and recovering items.  
 ✅ Backend API | ✅ JWT & Firebase Auth | ✅ Stats Tracking  
 **Tech Stack:**  
@@ -146,11 +144,12 @@ Lost & found portal for posting and recovering items.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white)
-🔗 <a href="https://simple-firebase-auth-9089a.web.app/" target="_blank">Live Demo</a>
+🔗 [Live Demo](https://simple-firebase-auth-9089a.web.app/)
+
 
 ---
 
-### 🔹 <a href="https://github.com/mrshanshuvo/parcel-delivery" target="_blank">Parcel Delivery System (ProFast)</a>
+### 🔹 [Parcel Delivery System (ProFast)](https://github.com/mrshanshuvo/zap-shift-client)
 Parcel tracking website with live map integration and responsive UI.  
 ✅ Leaflet Map | ✅ Tracking Dashboard | ✅ Role-based UI  
 **Tech Stack:**  
@@ -160,11 +159,11 @@ Parcel tracking website with live map integration and responsive UI.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-4CC9F0?style=flat-square&logo=leaflet&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-🔗 <a href="https://profast-94805.web.app/" target="_blank">Live Demo</a>
+🔗 [Live Demo](https://profast-94805.web.app/)
 
 ---
 
-### 🔹 <a href="https://vercel.com/mrshanshuvos-projects/car-doctor-nextjs" target="_blank">Car Doctor Next.js</a>
+### 🔹 [Car Doctor Next.js](https://github.com/mrshanshuvo/car-doctor)
 Car repair booking platform with real-time scheduling and responsive UI.  
 ✅ Booking System | ✅ User Authentication | ✅ Modern UI  
 **Tech Stack:**  
@@ -172,11 +171,11 @@ Car repair booking platform with real-time scheduling and responsive UI.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-🔗 <a href="https://car-doctor-nextjs-ten.vercel.app/" target="_blank">Live Demo</a>
+🔗 [Live Demo](https://car-doctor-nextjs-ten.vercel.app/)
 
 ---
 
-### 🔹 <a href="https://my-portfolio-1-five-tawny.vercel.app/" target="_blank">My Personal Portfolio</a>
+### 🔹 [My Personal Portfolio](https://github.com/mrshanshuvo/my-portfolio-1)
 Explore my full-stack projects, UI/UX designs, and professional journey in one interactive place.  
 ✅ Responsive design | ✅ Modern UI/UX | ✅ Project showcase  
 **Tech Stack:**  
@@ -184,8 +183,7 @@ Explore my full-stack projects, UI/UX designs, and professional journey in one i
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-🔗 <a href="https://my-portfolio-1-five-tawny.vercel.app/" target="_blank">Visit Portfolio</a>
-
+🔗 [Visit Portfolio](https://my-portfolio-1-five-tawny.vercel.app/)
 
 ---
 
