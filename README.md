@@ -1,177 +1,147 @@
-<div align="center">
+# 👋 **Shahid Hasan Shuvo**
+### 🚀 Full Stack Developer | MERN Stack Specialist | React & Node.js
 
-# Shahid Hasan Shuvo
-### Full Stack Developer | MERN Stack Specialist
-
-📍 Dhaka, Bangladesh  
-📧 mrshanshuvo@gmail.com  
-📱 +8801929346733  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrshanshuvo.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-hasan-shovu-893930352)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrshanshuvo)
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descAlign=50)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate Full Stack Developer specializing in the MERN stack, dedicated to building scalable and efficient web applications. With strong expertise in modern JavaScript ecosystems, I focus on creating user-friendly interfaces and robust backend systems. I'm constantly learning new technologies and enjoy solving complex problems through clean, maintainable code.
+<p align="center">
+  <a href="mailto:mrshanshuvo@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-mrshanshuvo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/shahid-hasan-shovu-893930352" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mrshanshuvo" target="_blank" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://mrshanshuvo.github.io" target="_blank" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Current Activities
+## 🎯 Professional Profile
 
-- 🔭 **Working On:** Enterprise Next.js + MERN Stack Application
-- 🌱 **Learning:** GraphQL and AWS Cloud Practitioner Certification
-- 💡 **Practicing:** Advanced Data Structures and Algorithms
+**Full Stack Developer** with 1.5+ years of experience building scalable web applications using the MERN stack. Passionate about creating efficient, user-friendly solutions with clean code architecture. Strong problem-solving skills and commitment to continuous learning in modern web technologies.
+
+> 💡 *"Code is like humor — when you have to explain it, it's bad."*
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 **Developing:** Enterprise Next.js + MERN Stack Application
+- 🌱 **Learning:** GraphQL & AWS Cloud Practitioner
+- 💡 **Practicing:** Advanced Algorithms & System Design
 - 🤝 **Contributing:** To open-source projects
-- 📚 **Exploring:** System Design and Microservices Architecture
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Stack
 
-### **Frontend Development**
+### 🎨 **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Backend Development**
+### ⚙️ **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### **Tools & DevOps**
+### 🛠️ **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1b2a,1b263b" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanshuvo&theme=radical&hide_border=true&background=0d1b2a" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=algolia&hide_border=true&bg_color=30,0d1b2a,1b263b&title_color=fff&text_color=fff&icon_color=4fc3f7)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrshanshuvo&theme=algolia&hide_border=true&background=0d1b2a&stroke=4fc3f7&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=algolia&hide_border=true&bg_color=30,1b263b,0d1b2a&title_color=fff&text_color=fff)
-
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-### 🏥 Medical Camp Management System (MCMS)
-**Full-stack platform for organizing and managing medical camps with payment integration**
-
-🔗 **Live Demo:** [https://mrshanshuvo.github.io/mcms](https://mrshanshuvo.github.io/mcms)  
-📁 **Repository:** [https://github.com/mrshanshuvo/mcms](https://github.com/mrshanshuvo/mcms)
-
-**Technologies Used:**
-- **Frontend:** React, Tailwind CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT, Firebase Admin
-- **Payment:** Stripe Integration
-- **Deployment:** Vercel, Netlify
-
-**Key Features:**
-- Role-based access control (Organizer & Participant)
-- Secure payment processing with Stripe
-- JWT authentication system
-- Firebase Admin integration
-- Responsive design
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true&bg_color=30,1b263b,0d1b2a" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" />
+</p>
 
 ---
 
-### 🔍 WhereIsIt - Lost & Found Platform
-**Community-driven platform for posting and recovering lost items**
+## 💼 Featured Projects
 
-🔗 **Live Demo:** [https://mrshanshuvo.github.io/whereisit](https://mrshanshuvo.github.io/whereisit)  
-📁 **Repository:** [https://github.com/mrshanshuvo/whereisit](https://github.com/mrshanshuvo/whereisit)
+### 🏥 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/mcms)
+**Full-stack platform for medical camp organization with payment integration**
 
-**Technologies Used:**
-- **Frontend:** React, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT, Firebase
-- **Deployment:** GitHub Pages, Heroku
-
-**Key Features:**
-- User authentication and authorization
-- Item posting and search functionality
-- Real-time notifications
-- Statistics tracking
-- Mobile-responsive design
+🔗 **Live Demo:** [View Project](https://mrshanshuvo.github.io/mcms)  
+**Tech Stack:** React, Node.js, Express, MongoDB, Firebase Admin, Stripe  
+**Key Features:** Role-based access, Payment processing, JWT Authentication, Firebase Admin
 
 ---
 
-### 📦 Parcel Delivery System
-**Real-time parcel tracking system with interactive maps**
+### 🔍 [WhereIsIt - Lost & Found Platform](https://github.com/mrshanshuvo/whereisit)
+**Community-driven platform for item recovery and management**
 
-🔗 **Live Demo:** [https://mrshanshuvo.github.io/parcel-delivery](https://mrshanshuvo.github.io/parcel-delivery)  
-📁 **Repository:** [https://github.com/mrshanshuvo/parcel-delivery](https://github.com/mrshanshuvo/parcel-delivery)
-
-**Technologies Used:**
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Maps:** Leaflet.js
-- **Deployment:** Vercel, Netlify
-
-**Key Features:**
-- Live parcel tracking with interactive maps
-- Role-based user interfaces
-- Tracking dashboard with analytics
-- Real-time status updates
-- Responsive mobile design
+🔗 **Live Demo:** [View Project](https://mrshanshuvo.github.io/whereisit)  
+**Tech Stack:** MERN Stack, JWT, Firebase Auth, MongoDB  
+**Key Features:** User authentication, Item tracking, Statistics dashboard, RESTful APIs
 
 ---
 
-## 🌐 Professional Links
+### 📦 [Parcel Delivery System](https://github.com/mrshanshuvo/parcel-delivery)
+**Real-time parcel tracking with interactive maps**
 
+🔗 **Live Demo:** [View Project](https://mrshanshuvo.github.io/parcel-delivery)  
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Leaflet  
+**Key Features:** Live tracking, Interactive maps, Role-based UI, Responsive design
+
+---
+
+## 📞 Contact Information
+
+- **📍 Location:** Dhaka, Bangladesh
 - **📧 Email:** [mrshanshuvo@gmail.com](mailto:mrshanshuvo@gmail.com)
+- **📱 Phone:** +8801929346733
 - **💼 LinkedIn:** [Shahid Hasan Shuvo](https://linkedin.com/in/shahid-hasan-shovu-893930352)
-- **👨‍💻 GitHub:** [mrshanshuvo](https://github.com/mrshanshuvo)
-- **🌐 Portfolio:** [Visit My Portfolio](https://mrshanshuvo.github.io)
+- **🌐 Portfolio:** [mrshanshuvo.github.io](https://mrshanshuvo.github.io)
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Objectives
 
-**Open to opportunities as:**
+**Seeking Opportunities As:**
 - Full Stack Developer (MERN Stack)
 - Frontend Developer (React/Next.js)
 - Backend Developer (Node.js/Express)
 
-**Professional Strengths:**
-- 1.5+ years of hands-on development experience
-- Strong problem-solving and analytical skills
-- Expertise in modern web technologies
-- Commitment to code quality and best practices
+**Professional Value:**
+- 1.5+ years production-level experience
+- Strong problem-solving capabilities
+- Clean code practices & scalable architecture
+- Quick adaptation to new technologies
 
 ---
 
-<div align="center">
+## 🌟 Beyond Development
 
-### 📞 **Let's Connect and Build Something Amazing!**
+- 🧩 **Puzzle Solving:** Rubik's Cube Speed Solver (PB: 1min 42s)
+- 📚 **Continuous Learning:** GraphQL, AWS, System Design
+- 🤝 **Community:** Open-source contributor
+- 🏸 **Activities:** Outdoor sports & event organization
 
-![Visitors](https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square)
+---
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" />
+  <i>Thanks for visiting my profile! Let's connect and build something amazing. 🚀</i>
+</p>
