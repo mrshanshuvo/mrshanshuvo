@@ -14,7 +14,12 @@
   <a href="https://github.com/mrshanshuvo" target="_blank" title="GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://my-portfolio-1-five-tawny.vercel.app/" target="_blank" title="Visit My Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
+
 
 ## 🖼️ Profile Banner
 
@@ -148,6 +153,12 @@ Parcel tracking website with live map integration and responsive UI.
 ![Leaflet](https://img.shields.io/badge/Leaflet-4CC9F0?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
 🔗 [Live Demo](https://mrshanshuvo.github.io/parcel-delivery)
+
+### 🔹 [My Personal Portfolio](https://my-portfolio-1-five-tawny.vercel.app/)
+Explore my full-stack projects, UI/UX designs, and professional journey in one interactive place.  
+✅ Responsive design | ✅ Modern UI/UX | ✅ Project showcase  
+**Tech Stack:** Next.js, React, Tailwind CSS, Vercel  
+🔗 [Visit Portfolio](https://my-portfolio-1-five-tawny.vercel.app/)
 
 ---
 
