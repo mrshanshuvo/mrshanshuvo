@@ -77,7 +77,8 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1b2a,1b263b" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanshuvo&theme=radical&hide_border=true&background=0d1b2a" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mrshanshuvo&theme=radical&hide_border=true&background=0d1b2a" />
+
 </p>
 
 <p align="center">
