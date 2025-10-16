@@ -117,33 +117,40 @@ Parcel tracking website with live map integration and responsive UI.
 ## 🌍 Connect With Me
 
 - 📧 **Email:** [mrshanshuvo@gmail.com](mailto:mrshanshuvo@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/shahid-hasan-shovu-893930352](https://linkedin.com/in/shahid-hasan-shovu-893930352)  
+- 💼 **LinkedIn:** [linkedin.com/in/shahidhasanshovu](https://www.linkedin.com/in/shahidhasanshovu/)  
 - 📍 **Location:** Dhaka, Bangladesh  
-- 📱 **Contact:** +8801929346733  
+- 📱 **Contact:** +8801929346733, +8801794280136  
 
 ---
 
-## 🧠 Career Interests
+## 🎯 Career Objectives
 
-**Looking for:**  
-- 💻 Full Stack / MERN Stack Developer roles  
-- 🌐 Remote-first or hybrid positions  
+**Seeking Opportunities As:**
+- Full Stack Developer (MERN Stack)
+- Frontend Developer (React/Next.js)
+- Backend Developer (Node.js/Express)
 
-**I Bring:**  
-- 1.5+ years of production-level project experience  
-- Strong problem-solving mindset  
-- Clean code practices & scalable architecture  
+**Professional Value:**
+- 1.5+ years production-level experience
+- Strong problem-solving capabilities
+- Clean code practices & scalable architecture
+- Quick adaptation to new technologies
+
+---
+
+## 🌟 Beyond Development
+
+- 🧩 **Puzzle Solving:** Rubik's Cube Speed Solver (PB: 1min 42s)
+- 📚 **Continuous Learning:** GraphQL, AWS, System Design
+- 🤝 **Community:** Open-source contributor
+- 🏸 **Activities:** Outdoor sports & event organization
 
 ---
 
-## ✨ Beyond Code
-
-- 🧩 Rubik’s Cube Speed Solver (PB: 1min 42s)  
-- 📚 Learning GraphQL & AWS Developer  
-- 🌱 Open-source contributor  
-- 🏸 Outdoor Games & Event Organizer  
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" />
+  <i>Thanks for visiting my profile! Let's connect and build something amazing. 🚀</i>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
