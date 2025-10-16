@@ -132,7 +132,7 @@ Full MERN stack system for managing medical camps with organizer & participant r
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge)
-🔗 [Live Demo](https://mrshanshuvo.github.io/mcms)
+🔗 [Live Demo](https://mcms-auth.web.app/)
 
 ---
 
@@ -146,11 +146,11 @@ Lost & found portal for posting and recovering items.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-🔗 [Live Demo](https://mrshanshuvo.github.io/whereisit)
+🔗 [Live Demo](https://simple-firebase-auth-9089a.web.app/)
 
 ---
 
-### 🔹 [Parcel Delivery System](https://github.com/mrshanshuvo/parcel-delivery)
+### 🔹 [Parcel Delivery System (ProFast)](https://github.com/mrshanshuvo/parcel-delivery)
 Parcel tracking website with live map integration and responsive UI.  
 ✅ Leaflet Map | ✅ Tracking Dashboard | ✅ Role-based UI  
 **Tech Stack:**  
@@ -160,15 +160,32 @@ Parcel tracking website with live map integration and responsive UI.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Leaflet](https://img.shields.io/badge/Leaflet-4CC9F0?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
-🔗 [Live Demo](https://mrshanshuvo.github.io/parcel-delivery)
+🔗 [Live Demo](https://profast-94805.web.app/)
+
+---
+
+### 🔹 [Car Doctor Next.js](https://vercel.com/mrshanshuvos-projects/car-doctor-nextjs)
+Car repair booking platform with real-time scheduling and responsive UI.  
+✅ Booking System | ✅ User Authentication | ✅ Modern UI  
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+🔗 [Live Demo](https://car-doctor-nextjs-ten.vercel.app/)
+
+---
 
 ### 🔹 [My Personal Portfolio](https://my-portfolio-1-five-tawny.vercel.app/)
 Explore my full-stack projects, UI/UX designs, and professional journey in one interactive place.  
 ✅ Responsive design | ✅ Modern UI/UX | ✅ Project showcase  
-**Tech Stack:** Next.js, React, Tailwind CSS, Vercel  
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 🔗 [Visit Portfolio](https://my-portfolio-1-five-tawny.vercel.app/)
 
----
 
 ## 🌍 Connect With Me
 
