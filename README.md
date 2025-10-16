@@ -18,9 +18,13 @@
 ---
 
 ## 🖼️ Profile Banner
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo%20🌐&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20%7C%20React%20%7C%20Node.js&descAlignY=55&descAlign=50)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo%20🌐&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20%7C%20React%20%7C%20Node.js&descAlignY=55&descAlign=50" alt="Banner"/>
+</div>
 
 ---
+
 
 ## 💫 About Me
 
