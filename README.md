@@ -1,6 +1,7 @@
 # 👋 **Shahid Hasan Shuvo**
 ### 🚀 Junior Full Stack Developer | MERN Stack | React & Node.js | Problem Solver
 
+<!-- Contact Badges -->
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mrshanshuvo@gmail.com" target="_blank" title="Send me an Email via Gmail">
     <img src="https://img.shields.io/badge/Email-mrshanshuvo%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -14,7 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
 
 ## 🖼️ Profile Banner
 
