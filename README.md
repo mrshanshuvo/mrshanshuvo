@@ -85,7 +85,7 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
   <b>Activity Graph</b>
 </p>
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -98,7 +98,7 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 ---
 
