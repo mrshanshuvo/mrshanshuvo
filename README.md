@@ -102,19 +102,41 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 ### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/mcms)
 Full MERN stack system for managing medical camps with organizer & participant roles.  
 ✅ Firebase Admin setup | ✅ Stripe payment | ✅ JWT Auth  
-**Tech:** React, Node.js, Express, MongoDB, Firebase Admin, Stripe  
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge)
 🔗 [Live Demo](https://mrshanshuvo.github.io/mcms)
+
+---
 
 ### 🔹 [WhereIsIt](https://github.com/mrshanshuvo/whereisit)
 Lost & found portal for posting and recovering items.  
 ✅ Backend API | ✅ JWT & Firebase Auth | ✅ Stats Tracking  
-**Tech:** MERN Stack, JWT, Firebase Admin, MongoDB  
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 🔗 [Live Demo](https://mrshanshuvo.github.io/whereisit)
+
+---
 
 ### 🔹 [Parcel Delivery System](https://github.com/mrshanshuvo/parcel-delivery)
 Parcel tracking website with live map integration and responsive UI.  
 ✅ Leaflet Map | ✅ Tracking Dashboard | ✅ Role-based UI  
-**Tech:** React, Tailwind, Node.js, Express, MongoDB, Leaflet  
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Leaflet](https://img.shields.io/badge/Leaflet-4CC9F0?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
 🔗 [Live Demo](https://mrshanshuvo.github.io/parcel-delivery)
 
 ---
