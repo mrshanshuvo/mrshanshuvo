@@ -81,9 +81,6 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true" />
-      </td>
-      <td>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshanshuvo&theme=radical&hide_border=true" />
       </td>
     </tr>
@@ -93,6 +90,9 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
       </td>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true" />
       </td>
     </tr>
   </table>
