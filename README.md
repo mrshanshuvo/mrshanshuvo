@@ -77,16 +77,16 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1b2a,1b263b" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mrshanshuvo&theme=radical&hide_border=true&background=0d1b2a" />
-
+  <img width="48%" src="https://streak-stats.demolab.com?user=mrshanshuvo&theme=radical&hide_border=true&background=0d1b2a&t=1" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true&bg_color=30,1b263b,0d1b2a" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical&t=1" />
 </p>
 
 ---
+
 
 ## 📂 Featured Projects (Pinned)
 
