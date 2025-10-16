@@ -1,150 +1,124 @@
-# 👋 **Shahid Hasan Shuvo**
-### 🚀 Junior Full Stack Developer | MERN Stack | React & Node.js | Problem Solver
+# 👋 Hi, I'm Shahid Hasan Shuvo
+### 🚀 Junior Full Stack Developer | MERN Stack Specialist
 
-<p align="center">
-  <a href="mailto:mrshanshuvo@gmail.com" title="Send me an Email">
-    <img src="https://img.shields.io/badge/Email-mrshanshuvo%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/shahid-hasan-shovu-893930352" target="_blank" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mrshanshuvo" target="_blank" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mrshanshuvo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrshanshuvo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahid_Hasan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-hasan-shovu-893930352)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://mrshanshuvo.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrshanshuvo)
+
+</div>
 
 ---
 
-## 🖼️ Profile Banner
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo%20🌐&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20%7C%20React%20%7C%20Node.js&descAlignY=55&descAlign=50)
+## 🎯 Professional Summary
+
+Passionate Full Stack Developer with expertise in the MERN stack, dedicated to building scalable, efficient, and user-centric web applications. Strong foundation in modern JavaScript ecosystems, responsive design, and RESTful API development. Committed to writing clean, maintainable code and continuously expanding technical expertise.
 
 ---
 
-## 💫 About Me
+## 🛠 Technical Stack
 
-Hey there! I’m **Shahid Hasan Shuvo**, a **results-driven Full Stack Developer** passionate about building efficient, scalable, and user-friendly web applications.  
-I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs using Node.js, Express, and MongoDB.  
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-> 💡 “Code is like humor — when you have to explain it, it’s bad.”
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
----
-
-## 🔥 Current Activities
-
-- 🚀 Working on an **Enterprise Next.js + MERN Stack Application**  
-- ⚙️ Exploring **GraphQL** and **AWS Developer Certification**  
-- 💻 Contributing to open-source projects  
-- 📚 Practicing **problem-solving** on HackerRank & Beecrowd  
-
----
-
-## 🛠️ Skills
-
-### 🧩 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### ⚙️ **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge)
-
-### 🧰 **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![CI/CD](https://img.shields.io/badge/CI/CD-008080?style=for-the-badge)
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanshuvo&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=algolia&hide_border=true&bg_color=30,0d1b2a,1b263b&title_color=fff&text_color=fff&icon_color=4fc3f7)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrshanshuvo&theme=algolia&hide_border=true&background=0d1b2a&stroke=4fc3f7&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=algolia&hide_border=true&bg_color=30,1b263b,0d1b2a&title_color=fff&text_color=fff)
 
-## 📂 Featured Projects (Pinned)
-
-### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/mcms)
-Full MERN stack system for managing medical camps with organizer & participant roles.  
-✅ Firebase Admin setup | ✅ Stripe payment | ✅ JWT Auth  
-**Tech:** React, Node.js, Express, MongoDB, Firebase Admin, Stripe  
-🔗 [Live Demo](https://mrshanshuvo.github.io/mcms)
+</div>
 
 ---
 
-### 🔹 [WhereIsIt](https://github.com/mrshanshuvo/whereisit)
-Lost & found portal for posting and recovering items.  
-✅ Backend API | ✅ JWT & Firebase Auth | ✅ Stats Tracking  
-**Tech:** MERN Stack, JWT, Firebase Admin, MongoDB  
-🔗 [Live Demo](https://mrshanshuvo.github.io/whereisit)
+## 💼 Featured Projects
+
+### 🏥 Medical Camp Management System (MCMS)
+**Full-stack medical camp management platform with payment integration**
+- **Tech Stack:** MERN Stack, Firebase Admin, Stripe, JWT Authentication
+- **Features:** Role-based access, payment processing, camp management
+- [**Live Demo**](https://mrshanshuvo.github.io/mcms) | [**Source Code**](https://github.com/mrshanshuvo/mcms)
+
+### 🔍 WhereIsIt - Lost & Found Platform
+**Community-driven lost and found item recovery system**
+- **Tech Stack:** React, Node.js, Express, MongoDB, Firebase Auth
+- **Features:** Item posting, search functionality, user authentication
+- [**Live Demo**](https://mrshanshuvo.github.io/whereisit) | [**Source Code**](https://github.com/mrshanshuvo/whereisit)
+
+### 📦 Parcel Delivery System
+**Real-time parcel tracking with interactive maps**
+- **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Leaflet
+- **Features:** Live tracking, dashboard analytics, responsive design
+- [**Live Demo**](https://mrshanshuvo.github.io/parcel-delivery) | [**Source Code**](https://github.com/mrshanshuvo/parcel-delivery)
 
 ---
 
-### 🔹 [Parcel Delivery System](https://github.com/mrshanshuvo/parcel-delivery)
-Parcel tracking website with live map integration and responsive UI.  
-✅ Leaflet Map | ✅ Tracking Dashboard | ✅ Role-based UI  
-**Tech:** React, Tailwind, Node.js, Express, MongoDB, Leaflet  
-🔗 [Live Demo](https://mrshanshuvo.github.io/parcel-delivery)
+## 🚀 Current Focus
+
+- 🔭 **Developing:** Enterprise-level Next.js + MERN Stack applications
+- 🌱 **Learning:** GraphQL, AWS Cloud Practitioner Certification
+- 💡 **Practicing:** Advanced algorithms and system design
+- 🤝 **Contributing:** To open-source projects
 
 ---
 
-## 🌍 Connect With Me
+## 📫 Let's Connect
 
-- 📧 **Email:** [mrshanshuvo@gmail.com](mailto:mrshanshuvo@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/shahid-hasan-shovu-893930352](https://linkedin.com/in/shahid-hasan-shovu-893930352)  
-- 📍 **Location:** Dhaka, Bangladesh  
-- 📱 **Contact:** +8801929346733  
-
----
-
-## 🧠 Career Interests
-
-**Looking for:**  
-- 💻 Full Stack / MERN Stack Developer roles  
-- 🌐 Remote-first or hybrid positions  
-
-**I Bring:**  
-- 1.5+ years of production-level project experience  
-- Strong problem-solving mindset  
-- Clean code practices & scalable architecture  
+- **📧 Email:** [mrshanshuvo@gmail.com](mailto:mrshanshuvo@gmail.com)
+- **💼 LinkedIn:** [Shahid Hasan Shuvo](https://linkedin.com/in/shahid-hasan-shovu-893930352)
+- **🌍 Location:** Dhaka, Bangladesh
+- **📱 Phone:** +8801929346733
 
 ---
 
-## ✨ Beyond Code
+## 🎯 Career Objectives
 
-- 🧩 Rubik’s Cube Speed Solver (PB: 1min 42s)  
-- 📚 Learning GraphQL & AWS Developer  
-- 🌱 Open-source contributor  
-- 🏸 Outdoor Games & Event Organizer  
+**Seeking opportunities as:**
+- Full Stack Developer (MERN Stack)
+- Frontend Developer (React/Next.js)
+- Backend Developer (Node.js/Express)
+
+**What I offer:**
+- 1.5+ years of hands-on project experience
+- Strong problem-solving and analytical skills
+- Commitment to code quality and best practices
+- Quick learning ability and adaptability
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+<div align="center">
+
+### ⚡ **"Code is like humor — when you have to explain it, it's bad."** - Cory House
+
+![Visitors](https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square)
+
+</div>
