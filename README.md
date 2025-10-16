@@ -86,17 +86,14 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 </p>
 
 <p align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" /><br>
-    <b>Top Languages</b>
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" /><br>
-    <b>Productive Time</b>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" /><br>
+  <b>Top Languages</b>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" /><br>
+  <b>Productive Time</b>
+</p>
 
 ---
 
