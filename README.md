@@ -75,11 +75,16 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 
 ## 📊 GitHub Analytics
 
+<p align="center">
+
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrshanshuvo&theme=radical&hide_border=true) |
 |---|---|
 
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical) |
 |---|---|
+
+</p>
+
 
 
 ## 📂 Featured Projects (Pinned)
