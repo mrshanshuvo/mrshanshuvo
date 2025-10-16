@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Email-mrshanshuvo%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/shahid-hasan-shovu-893930352" target="_blank" title="Connect on LinkedIn">
+  <a href="https://linkedin.com/in/shahidhasanshovu" target="_blank" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -73,38 +73,29 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  ## 📊 GitHub Analytics
+  <img src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true" /><br>
+  <b>GitHub Stats</b>
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true" /><br>
-        <b>GitHub Stats</b>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshanshuvo&theme=radical&hide_border=true" /><br>
-        <b>Activity Graph</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" /><br>
-        <b>Top Languages</b>
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" /><br>
-        <b>Productive Time</b>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshanshuvo&theme=radical&hide_border=true" /><br>
+  <b>Activity Graph</b>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" /><br>
+  <b>Top Languages</b>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" /><br>
+  <b>Productive Time</b>
+</p>
 
-
+---
 
 ## 📂 Featured Projects (Pinned)
 
@@ -114,15 +105,11 @@ Full MERN stack system for managing medical camps with organizer & participant r
 **Tech:** React, Node.js, Express, MongoDB, Firebase Admin, Stripe  
 🔗 [Live Demo](https://mrshanshuvo.github.io/mcms)
 
----
-
 ### 🔹 [WhereIsIt](https://github.com/mrshanshuvo/whereisit)
 Lost & found portal for posting and recovering items.  
 ✅ Backend API | ✅ JWT & Firebase Auth | ✅ Stats Tracking  
 **Tech:** MERN Stack, JWT, Firebase Admin, MongoDB  
 🔗 [Live Demo](https://mrshanshuvo.github.io/whereisit)
-
----
 
 ### 🔹 [Parcel Delivery System](https://github.com/mrshanshuvo/parcel-delivery)
 Parcel tracking website with live map integration and responsive UI.  
@@ -166,7 +153,7 @@ Parcel tracking website with live map integration and responsive UI.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" /><br>
   <i>Thanks for visiting my profile! Let's connect and build something amazing. 🚀</i>
 </p>
 
