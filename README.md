@@ -75,10 +75,10 @@ I love crafting clean UI/UX with React & Tailwind CSS and building robust APIs u
 
 ## 📊 GitHub Analytics
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=mrshanshuvo&theme=radical&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true) |
 |---|---|
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical) |
+| ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mrshanshuvo&theme=radical&hide_border=true&include_all_commits=true) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical) |
 |---|---|
 
 
