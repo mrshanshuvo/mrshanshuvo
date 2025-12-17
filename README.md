@@ -145,7 +145,7 @@ Lost & found portal for posting and recovering items.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white)
-🔗 [Live Demo](https://simple-firebase-auth-9089a.web.app/)
+🔗 [Live Demo](https://wit-web-client.vercel.app/)
 
 
 ---
