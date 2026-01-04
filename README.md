@@ -1,5 +1,5 @@
 # 👋 **Shahid Hasan Shuvo**
-### 🚀 Junior Full Stack Developer | MERN Stack | React & Node.js | Problem Solver
+### 🚀 Junior Full Stack Developer | MERN Stack | React & Node.js | Django
 
 <!-- Contact Badges -->
 <div align="center">
@@ -123,7 +123,7 @@ I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs usin
 
 ## 📂 Featured Projects (Pinned)
 
-### 🔹 Medical Camp Management System (MCMS)
+### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/MCMS-web-client)
 Full MERN stack system for managing medical camps with organizer & participant roles.  
 ✅ Firebase Admin setup | ✅ Stripe payment | ✅ JWT Auth  
 **Tech Stack:**  
@@ -135,7 +135,7 @@ Full MERN stack system for managing medical camps with organizer & participant r
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 🔗 [Live Demo](https://mcms-auth.web.app/)
 
-### 🔹 WhereIsIt
+### 🔹 [WhereIsIt](https://github.com/mrshanshuvo/WIT-web-client)
 Lost & found portal for posting and recovering items.  
 ✅ Backend API | ✅ JWT & Firebase Auth | ✅ Stats Tracking  
 **Tech Stack:**  
