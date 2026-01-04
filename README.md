@@ -166,17 +166,6 @@ Car repair booking platform with real-time scheduling and responsive UI.
 
 ---
 
-### 🔹 [My Personal Portfolio](https://github.com/mrshanshuvo/my-portfolio-1) 🔗 [LIVE](https://my-portfolio-1-five-tawny.vercel.app/)
-Explore my full-stack projects, UI/UX designs, and professional journey in one interactive place.  
-✅ Responsive design | ✅ Modern UI/UX | ✅ Project showcase  
-**Tech Stack:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
 ## 🌍 Connect With Me
 
 - 📧 **Email:** [mrshanshuvo@gmail.com](mailto:mrshanshuvo@gmail.com)  
