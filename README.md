@@ -45,7 +45,6 @@ I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs usin
 
 - 🚀 Working on an **Enterprise Next.js + MERN Stack Application**  
 - ⚙️ Exploring **GraphQL** and **AWS Developer Certification**  
-- 💻 Contributing to open-source projects  
 - 📚 Practicing **problem-solving** on HackerRank & Beecrowd  
 - 💼 Collaborating on **client projects using Django REST Framework**
 
@@ -210,7 +209,6 @@ Explore my full-stack projects, UI/UX designs, and professional journey in one i
 
 ## 🌟 Beyond Development
 
-- 🧩 **Puzzle Solving:** Rubik's Cube Speed Solver (PB: 1min 42s)
 - 📚 **Continuous Learning:** GraphQL, AWS, System Design
 - 🤝 **Community:** Open-source contributor
 - 🏸 **Activities:** Outdoor sports & event organization
