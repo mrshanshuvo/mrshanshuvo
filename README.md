@@ -108,12 +108,6 @@ I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs usin
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" /><br>
         <b>Productive Time</b>
       </td>
-      <td align="center">
-        <a href="https://my-portfolio-1-five-tawny.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
-          <b>Portfolio</b>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
