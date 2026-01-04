@@ -134,8 +134,9 @@ Full MERN stack system for managing medical camps with organizer & participant r
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
+---
 
-### 🔹 [WhereIsIt](https://github.com/mrshanshuvo/WIT-web-client)
+### 🔹 [WhereIsIt](https://github.com/mrshanshuvo/WIT-web-client) 🔗 [LIVE](https://wit-web-client.vercel.app/)
 Lost & found portal for posting and recovering items.  
 ✅ Backend API | ✅ JWT & Firebase Auth | ✅ Stats Tracking  
 **Tech Stack:**  
@@ -145,12 +146,10 @@ Lost & found portal for posting and recovering items.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white)
-🔗 [LIVE](https://wit-web-client.vercel.app/)
-
 
 ---
 
-### 🔹 [Parcel Delivery System (ProFast)](https://github.com/mrshanshuvo/zap-shift-client)
+### 🔹 [Parcel Delivery System (ProFast)](https://github.com/mrshanshuvo/zap-shift-client) 🔗 [LIVE](https://profast-94805.web.app/)
 Parcel tracking website with live map integration and responsive UI.  
 ✅ Leaflet Map | ✅ Tracking Dashboard | ✅ Role-based UI  
 **Tech Stack:**  
@@ -160,11 +159,10 @@ Parcel tracking website with live map integration and responsive UI.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-4CC9F0?style=flat-square&logo=leaflet&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-🔗 [LIVE](https://profast-94805.web.app/)
 
 ---
 
-### 🔹 [Car Doctor Next.js](https://github.com/mrshanshuvo/car-doctor)
+### 🔹 [Car Doctor Next.js](https://github.com/mrshanshuvo/car-doctor) 🔗 [LIVE](https://car-doctor-nextjs-ten.vercel.app/)
 Car repair booking platform with real-time scheduling and responsive UI.  
 ✅ Booking System | ✅ User Authentication | ✅ Modern UI  
 **Tech Stack:**  
@@ -172,11 +170,10 @@ Car repair booking platform with real-time scheduling and responsive UI.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-🔗 [LIVE](https://car-doctor-nextjs-ten.vercel.app/)
 
 ---
 
-### 🔹 [My Personal Portfolio](https://github.com/mrshanshuvo/my-portfolio-1)
+### 🔹 [My Personal Portfolio](https://github.com/mrshanshuvo/my-portfolio-1) 🔗 [LIVE](https://my-portfolio-1-five-tawny.vercel.app/)
 Explore my full-stack projects, UI/UX designs, and professional journey in one interactive place.  
 ✅ Responsive design | ✅ Modern UI/UX | ✅ Project showcase  
 **Tech Stack:**  
@@ -184,7 +181,6 @@ Explore my full-stack projects, UI/UX designs, and professional journey in one i
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-🔗 [LIVE](https://my-portfolio-1-five-tawny.vercel.app/)
 
 ---
 
