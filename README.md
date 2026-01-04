@@ -123,7 +123,7 @@ I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs usin
 
 ## 📂 Featured Projects (Pinned)
 
-### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/MCMS-web-client)
+### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/MCMS-web-client) 🔗 [LIVE](https://mcms-auth.web.app/)
 Full MERN stack system for managing medical camps with organizer & participant roles.  
 ✅ Firebase Admin setup | ✅ Stripe payment | ✅ JWT Auth  
 **Tech Stack:**  
@@ -133,7 +133,7 @@ Full MERN stack system for managing medical camps with organizer & participant r
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-🔗 [LIVE](https://mcms-auth.web.app/)
+
 
 ### 🔹 [WhereIsIt](https://github.com/mrshanshuvo/WIT-web-client)
 Lost & found portal for posting and recovering items.  
