@@ -106,7 +106,7 @@ I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs usin
 
 ## 📂 Featured Projects (Pinned)
 
-### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/MCMS-web-client) 🔗 [LIVE](https://mcms-auth.web.app/)
+### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/MCMS-web-client) 🔗 [LIVE](https://mcms-web-client.vercel.app/)
 Full MERN stack system for managing medical camps with organizer & participant roles.  
 ✅ Firebase Admin setup | ✅ Stripe payment | ✅ JWT Auth  
 **Tech Stack:**  
