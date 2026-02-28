@@ -91,11 +91,11 @@ I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs usin
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" /><br>
+        <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" /><br>
         <b>Top Languages</b>
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical&utcOffset=6" /><br>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" /><br>
         <b>Productive Time</b>
       </td>
     </tr>
