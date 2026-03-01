@@ -1,5 +1,5 @@
 # 👋 **Shahid Hasan Shuvo**
-### 🚀 Full Stack Developer | MERN Stack | React & Node.js | Django
+### 🚀 Full Stack Developer | MERN Stack | React & Next | Django & Node
 
 <!-- Contact Badges -->
 <div align="center">
