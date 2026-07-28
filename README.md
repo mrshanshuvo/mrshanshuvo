@@ -1,5 +1,4 @@
 # 👋 **Shahid Hasan Shuvo**
-### 🚀 Jr. Full Stack Developer | Next.js | NestJS | TypeScript | PostgreSQL | Docker
 
 <!-- Contact Badges -->
 <div align="center">
