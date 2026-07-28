@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://my-portfolio-1-five-tawny.vercel.app/" target="_blank" title="Visit My Portfolio">
+  <a href="https://shahidhasanshuvo.vercel.app/" target="_blank" title="Visit My Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
