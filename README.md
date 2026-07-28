@@ -223,10 +223,10 @@ Interested in backend engineering, cloud technologies, distributed systems, soft
 
 ## 🌟 Beyond Development
 
-- 📚 **Continuous Learning:** GraphQL, AWS, System Design
-- 🤝 **Community:** Open-source contributor
-- 🏸 **Activities:** Outdoor sports & event organization
-
+- **Continuous Learning:** System Design, Cloud Computing, Software Architecture, and DevOps practices.
+- **Backend Engineering:** Focused on scalable backend systems, API design, performance optimization, and distributed architectures.
+- **Open Source:** Building reusable developer tools, contributing to open-source projects, and sharing best practices.
+- **Activities:** Outdoor sports, event organization, and lifelong learning.
 ---
 
 <p align="center">
