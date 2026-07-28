@@ -139,6 +139,7 @@ Enterprise commerce platform supporting quotations, customer management, invoici
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-EF4444?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
