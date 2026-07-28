@@ -1,5 +1,5 @@
 # 👋 **Shahid Hasan Shuvo**
-### 🚀 Full Stack Developer | MERN Stack | React & Next | Django & Node
+### 🚀 Jr. Full Stack Developer | Next.js | NestJS | TypeScript | PostgreSQL | Docker
 
 <!-- Contact Badges -->
 <div align="center">
