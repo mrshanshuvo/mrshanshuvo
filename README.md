@@ -90,58 +90,80 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 
 ---
 
-## 📂 Featured Projects (Pinned)
+## 📂 Featured Projects
 
-### 🔹 [Medical Camp Management System (MCMS)](https://github.com/mrshanshuvo/MCMS-web-client) 🔗 [LIVE](https://mcms-web-client.vercel.app/)
-Full MERN stack system for managing medical camps with organizer & participant roles.  
-✅ Firebase Admin setup | ✅ Stripe payment | ✅ JWT Auth  
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+### 🔹 Ikon Skills LMS
+🌐 Frontend: http://ikonskills.ac/
+🌐 Admin Panel: http://admin.ikonskills.ac/
 
----
+Learning Management System (LMS) built for managing online education, students, instructors, and course administration.
 
-### 🔹 [WhereIsIt](https://github.com/mrshanshuvo/WIT-web-client) 🔗 [LIVE](https://wit-web-client.vercel.app/)
-Lost & found portal for posting and recovering items.  
-✅ Backend API | ✅ JWT & Firebase Auth | ✅ Stats Tracking  
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white)
+✅ Developed and maintained production features
+✅ Responsive UI implementation
+✅ API integration
+✅ Bug fixing & performance improvements
 
----
-
-### 🔹 [Parcel Delivery System (ProFast)](https://github.com/mrshanshuvo/zap-shift-client) 🔗 [LIVE](https://profast-94805.web.app/)
-Parcel tracking website with live map integration and responsive UI.  
-✅ Leaflet Map | ✅ Tracking Dashboard | ✅ Role-based UI  
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-4CC9F0?style=flat-square&logo=leaflet&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
----
-
-### 🔹 [Car Doctor Next.js](https://github.com/mrshanshuvo/car-doctor) 🔗 [LIVE](https://car-doctor-nextjs-ten.vercel.app/)
-Car repair booking platform with real-time scheduling and responsive UI.  
-✅ Booking System | ✅ User Authentication | ✅ Modern UI  
-**Tech Stack:**  
+**Tech Stack:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
+### 🔹 Ocreels
+🌐 https://ocreels.com
+
+Production web application where I contributed to frontend development, feature implementation, API integration, and application maintenance.
+
+✅ Feature development
+✅ Responsive UI
+✅ API integration
+✅ Production deployment support
+
+**Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🔹 Franchys API
+📄 Swagger: https://franchys.dynv6.net/api/v1/docs
+
+Production REST API built with NestJS following enterprise architecture.
+
+✅ REST API development
+✅ Authentication & Authorization
+✅ PostgreSQL database
+✅ Prisma ORM
+✅ API documentation
+
+**Tech Stack:**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 🔹 TPrice API
+📄 Swagger: https://tprice.softvenceomegaforce.cloud/api/docs
+
+Enterprise backend service developed using NestJS and PostgreSQL.
+
+✅ Backend feature implementation
+✅ RESTful API development
+✅ Database design
+✅ API documentation
+
+**Tech Stack:**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ## 🌍 Connect With Me
 
 - 📧 **Email:** [mrshanshuvo@gmail.com](mailto:mrshanshuvo@gmail.com)  
