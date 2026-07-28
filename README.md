@@ -206,14 +206,18 @@ Production media streaming platform featuring creator content management, video 
 ## 🎯 Career Objective
 
 Currently working as a **Jr. Full Stack Developer** at **Softvence Agency**, building scalable, production-ready web applications using modern frontend and backend technologies.
-
 Interested in backend engineering, cloud technologies, distributed systems, software architecture, and building high-performance, maintainable applications.
 
-**Professional Value:**
-- 1.5+ years production-level experience
-- Strong problem-solving capabilities
-- Clean code practices & scalable architecture
-- Quick adaptation to new technologies
+## 💼 Professional Value
+
+- Production experience delivering enterprise web applications for international clients.
+- Developed and maintained scalable REST APIs using NestJS and Express.js.
+- Designed and managed relational databases with PostgreSQL and Prisma ORM.
+- Implemented secure authentication and role-based authorization using JWT.
+- Built modular, maintainable applications following clean architecture and best practices.
+- Worked with Docker-based development environments and deployment workflows.
+- Experienced with Git-based collaborative development, code reviews, and team workflows.
+- Strong problem-solving skills with the ability to quickly learn and adopt new technologies.
 
 ---
 
