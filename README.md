@@ -203,12 +203,11 @@ Production media streaming platform featuring creator content management, video 
 
 ---
 
-## 🎯 Career Objectives
+## 🎯 Career Objective
 
-**Seeking Opportunities As:**
-- Full Stack Developer (MERN + Django REST)
-- Frontend Developer (React/Next.js)
-- Backend Developer (Node.js/Express/Django REST)
+Currently working as a **Jr. Full Stack Developer** at **Softvence Agency**, building scalable, production-ready web applications using modern frontend and backend technologies.
+
+Interested in backend engineering, cloud technologies, distributed systems, software architecture, and building high-performance, maintainable applications.
 
 **Professional Value:**
 - 1.5+ years production-level experience
