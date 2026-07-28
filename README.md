@@ -23,8 +23,7 @@
 
 ## 💫 About Me
 
-Hey there! I’m **Shahid Hasan Shuvo**, a **results-driven Full Stack Developer** passionate about building efficient, scalable, and user-friendly web applications.  
-I love crafting clean UI/UX with React & Tailwind CSS, building robust APIs using Node.js, Express, MongoDB, and Django REST Framework for client projects.
+I'm a Jr. Full Stack Developer passionate about building scalable web applications using Next.js, NestJS, PostgreSQL, and TypeScript. I enjoy designing clean architectures, building secure REST APIs, and deploying production-ready applications with Docker.
 
 > 💡 “Code is like humor — when you have to explain it, it’s bad.”
 
