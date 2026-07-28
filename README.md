@@ -21,7 +21,7 @@
 ## 🖼️ Profile Banner
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo%20%F0%9F%9A%80&fontSize=40&fontAlignY=35&desc=Jr.%20Full%20Stack%20Developer%20%7C%20Next.js%20%26%20NestJS&descAlignY=55&descAlign=50" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo%20%F0%9F%9A%80&fontSize=40&fontAlignY=35&desc=Jr.%20Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20NestJS%20%7C%20PostgreSQL%20%7C%20Docker&descAlignY=55&descAlign=50" alt="Banner"/>
 </div>
 
 
