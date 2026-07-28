@@ -31,10 +31,10 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 
 ## 🔥 Current Activities
 
-- 🚀 Working on an **Enterprise Next.js + MERN Stack Application**  
-- ⚙️ Exploring **GraphQL** and **AWS Developer Certification**  
-- 📚 Practicing **problem-solving** on HackerRank & Beecrowd  
-- 💼 Collaborating on **client projects using Django REST Framework**
+- 💼 Developing **production-ready full-stack applications** at **Softvence Agency**
+- 🚀 Building scalable solutions with **Next.js**, **NestJS**, and **PostgreSQL**
+- 🐳 Containerizing and deploying applications using **Docker**
+- 📚 Continuously learning **System Design**, **Software Architecture**, and **industry best practices**
 
 ---
 
