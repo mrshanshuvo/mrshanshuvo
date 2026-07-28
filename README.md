@@ -198,8 +198,7 @@ Production media streaming platform featuring creator content management, video 
 
 - 📧 **Email:** [mrshanshuvo@gmail.com](mailto:mrshanshuvo@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/shahidhasanshovu](https://www.linkedin.com/in/shahidhasanshovu/)  
-- 📍 **Location:** Dhaka, Bangladesh  
-- 📱 **Contact:** +8801929346733, +8801794280136  
+- 📍 **Location:** Dhaka, Bangladesh
 
 ---
 
