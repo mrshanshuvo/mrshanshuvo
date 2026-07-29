@@ -61,10 +61,10 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 
 ## 🔥 Current Activities
 
-- 💼 Developing **production-ready full-stack applications** at **Softvence Agency**
-- 🚀 Building scalable solutions with **Next.js**, **NestJS**, and **PostgreSQL**
-- 🐳 Containerizing and deploying applications using **Docker**
-- 📚 Continuously learning **System Design**, **Software Architecture**, and **industry best practices**
+- Developing production-ready full-stack applications at Softvence Agency.
+- Building scalable solutions with Next.js, NestJS, and PostgreSQL.
+- Containerizing and deploying applications using Docker.
+- Continuously learning System Design and Software Architecture.
 
 ---
 
@@ -126,7 +126,7 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 
 🔗 **API Documentation:** https://tprice.softvenceomegaforce.cloud/api/docs
 
-Enterprise marketplace backend powering buyer-seller interactions, product listings, offers, payments, and platform administration.
+Enterprise marketplace platform built with NestJS, PostgreSQL, Prisma, JWT authentication, and Stripe integration.
 
 **Key Contributions**
 - Developed and maintained scalable REST APIs using NestJS.
@@ -248,21 +248,20 @@ Interested in backend engineering, cloud technologies, distributed systems, soft
 - Built modular, maintainable applications following clean architecture and best practices.
 - Worked with Docker-based development environments and deployment workflows.
 - Experienced with Git-based collaborative development, code reviews, and team workflows.
-- Strong problem-solving skills with the ability to quickly learn and adopt new technologies.
+- Experience delivering production features from design through deployment while collaborating in cross-functional teams.
 
 ---
 
 ## 🌟 Beyond Development
 
-- **Continuous Learning:** System Design, Cloud Computing, Software Architecture, and DevOps practices.
-- **Backend Engineering:** Focused on scalable backend systems, API design, performance optimization, and distributed architectures.
-- **Open Source:** Building reusable developer tools, contributing to open-source projects, and sharing best practices.
-- **Activities:** Outdoor sports, event organization, and lifelong learning.
+- **Continuous Learning:** System Design, Cloud Computing, Software Architecture, and DevOps.
+- **Backend Engineering:** Exploring scalable APIs, distributed systems, and performance optimization.
+- **Open Source:** Building reusable developer tools and contributing to open-source projects.
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" /><br>
-  <i>Thanks for visiting my profile! Let's connect and build something amazing. 🚀</i>
+  <i>Thanks for visiting my profile.</i>
 </p>
 
 <p align="center">
