@@ -9,8 +9,8 @@
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shahidhasanshovu" target="_blank" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/shahidhasanshovu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://shahidhasanshuvo.vercel.app/" target="_blank" title="Visit My Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
