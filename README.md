@@ -4,8 +4,8 @@
 
 <!-- Contact Badges -->
 <div align="center">
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mrshanshuvo@gmail.com" target="_blank" title="Send me an Email via Gmail">
-  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:mrshanshuvo@gmail.com">
+  <img src="https://img.shields.io/badge/mrshanshuvo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shahidhasanshovu" target="_blank" title="Connect on LinkedIn">
