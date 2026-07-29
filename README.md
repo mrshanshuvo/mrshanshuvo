@@ -99,24 +99,6 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=radical&hide_border=true" /><br>
-        <b>Top Languages</b>
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrshanshuvo&theme=radical" /><br>
-        <b>Productive Time</b>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
