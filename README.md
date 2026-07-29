@@ -123,12 +123,12 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mrshanshuvo&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrshanshuvo&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mrshanshuvo&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
