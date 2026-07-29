@@ -29,6 +29,38 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 
 ---
 
+## 💼 Experience
+
+### Jr. Full Stack Developer
+**Softvence Agency** · Jul 2026 – Present
+
+- Developing and maintaining enterprise-grade web applications using Next.js and NestJS.
+- Building scalable REST APIs with PostgreSQL and Prisma ORM.
+- Delivering production features for EdTech, e-commerce, and media platforms.
+- Collaborating with cross-functional teams using Agile methodologies and Git-based workflows.
+
+---
+
+### Frontend Developer
+**Softvence Agency** · Jan 2026 – Jun 2026
+
+- Developed responsive web applications using Next.js, React, and TypeScript.
+- Built reusable UI components and integrated REST APIs.
+- Collaborated with backend engineers to deliver production-ready features.
+- Optimized application performance and user experience.
+
+---
+
+### Frontend Developer Intern
+**Zensoft Lab** · Sep 2025 – Dec 2025
+
+- Assisted in developing responsive web applications using React.js and modern frontend technologies.
+- Implemented UI components and integrated REST APIs.
+- Collaborated with senior developers following industry-standard development practices.
+- Gained hands-on experience with Git workflows, code reviews, and Agile development.
+
+---
+
 ## 🔥 Current Activities
 
 - 💼 Developing **production-ready full-stack applications** at **Softvence Agency**
