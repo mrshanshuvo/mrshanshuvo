@@ -105,7 +105,7 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrshanshuvo&theme=github_dark" />
+  <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mrshanshuvo&theme=radical" />
 </p>
 
 <p align="center">
