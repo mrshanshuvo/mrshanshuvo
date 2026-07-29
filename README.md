@@ -25,8 +25,6 @@
 
 I'm a Jr. Full Stack Developer passionate about building scalable web applications using Next.js, NestJS, PostgreSQL, and TypeScript. I enjoy designing clean architectures, building secure REST APIs, and deploying production-ready applications with Docker.
 
-> 💡 “Code is like humor — when you have to explain it, it’s bad.”
-
 ---
 
 ## 💼 Experience
@@ -234,10 +232,12 @@ Production media streaming platform featuring creator content management, video 
 
 ---
 
-## 🎯 Career Objective
+## 🚀 Currently
 
-Currently working as a **Jr. Full Stack Developer** at **Softvence Agency**, building scalable, production-ready web applications using modern frontend and backend technologies.
-Interested in backend engineering, cloud technologies, distributed systems, software architecture, and building high-performance, maintainable applications.
+Currently working as a **Jr. Full Stack Developer** at **Softvence Agency**, building scalable, production-ready web applications using Next.js, NestJS, PostgreSQL, and Docker.
+Interested in backend engineering, cloud technologies, distributed systems, software architecture, and high-performance application design.
+
+---
 
 ## 💼 Professional Value
 
