@@ -133,6 +133,19 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrshanshuvo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mrshanshuvo&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
 ## 📂 Featured Projects
 
 ### TPrice Marketplace Platform
