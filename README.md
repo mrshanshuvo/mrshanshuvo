@@ -23,7 +23,9 @@
 
 ## 💫 About Me
 
-I'm a Jr. Full Stack Developer passionate about building scalable web applications using Next.js, NestJS, PostgreSQL, and TypeScript. I enjoy designing clean architectures, building secure REST APIs, and deploying production-ready applications with Docker.
+I'm a Full Stack Developer focused on building scalable and maintainable web applications. I work primarily with Next.js, NestJS, PostgreSQL, and modern JavaScript/TypeScript technologies.
+
+My interests include backend engineering, API design, system architecture, cloud technologies, and production-ready application development.
 
 ---
 
