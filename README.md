@@ -229,23 +229,6 @@ AI-powered goal planning and progress tracking application that transforms user 
 
 ---
 
-### GearUp — Sports & Outdoor Equipment Rental
-
-Full-stack sports and outdoor equipment rental platform supporting customers, providers, and administrators.
-
-**Highlights**
-- Built customer workflows for browsing, renting, and managing equipment.
-- Developed provider features for equipment, inventory, and rental management.
-- Implemented admin functionality for users, equipment, categories, and orders.
-- Integrated Stripe and SSLCommerz payment workflows.
-- Implemented authentication, role-based access, order tracking, and reviews.
-
-**Stack:** Next.js · React · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · JWT · Stripe · SSLCommerz
-
-**Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" /><br>
   <i>Thanks for visiting my profile.</i>
