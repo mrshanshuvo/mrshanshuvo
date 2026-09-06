@@ -110,7 +110,7 @@ Authentication · Authorization · RBAC · API Design · Database Design · Syst
 
 ### TPrice — Marketplace Platform
 
-Enterprise marketplace platform developed for a client, supporting products, users, orders, and payment workflows.
+Marketplace platform developed for a client, supporting products, users, orders, and payment workflows.
 
 **My Contribution**
 - Developed and maintained NestJS REST APIs and backend modules.
@@ -127,7 +127,7 @@ Enterprise marketplace platform developed for a client, supporting products, use
 
 ### Franchys — ERP & Commerce Platform
 
-Enterprise ERP and commerce platform developed for a client, supporting quotations, customer management, invoicing, job workflows, vendor management, analytics, and automated communications.
+ERP and commerce platform developed for a client, supporting quotations, customer management, invoicing, job workflows, vendor management, analytics, and automated communications.
 
 **My Contribution**
 - Developed modular backend services using NestJS.
