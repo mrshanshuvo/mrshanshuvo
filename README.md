@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20NestJS%20%7C%20PostgreSQL%20%7C%20Docker&descAlignY=55&descAlign=50" alt="Banner"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo&fontSize=40&fontAlignY=35&desc=Jr.%20Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20NestJS%20%7C%20PostgreSQL%20%7C%20Docker&descAlignY=55&descAlign=50" alt="Banner"/> 
 </div>
 
 <!-- Contact Badges -->
@@ -17,9 +17,7 @@
   </a>
 </div>
 
-
 ---
-
 
 ## 💫 About Me
 
@@ -108,108 +106,143 @@ Authentication · Authorization · RBAC · API Design · Database Design · Syst
 
 ---
 
-## 📂 Featured Projects
+## 📂 Professional Projects
 
-### TPrice Marketplace Platform
+### TPrice — Marketplace Platform
 
-🔗 **API Documentation:** https://tprice.softvenceomegaforce.cloud/api/docs
+Enterprise marketplace platform developed for a client, supporting products, users, orders, and payment workflows.
 
-Enterprise marketplace platform built with NestJS, PostgreSQL, Prisma, JWT authentication, and Stripe integration.
-
-**Key Contributions**
-- Developed and maintained scalable REST APIs using NestJS.
-- Implemented authentication and role-based authorization (JWT & RBAC).
-- Built backend modules with PostgreSQL and Prisma ORM.
+**My Contribution**
+- Developed and maintained NestJS REST APIs and backend modules.
+- Implemented JWT authentication and role-based access control (RBAC).
+- Designed PostgreSQL data models using Prisma ORM.
 - Integrated Stripe payment workflows.
-- Collaborated on production-ready features following enterprise architecture and best practices.
+- Contributed to production features and backend development.
 
-**Tech Stack**
+**Stack:** NestJS · TypeScript · PostgreSQL · Prisma · JWT · Stripe · Docker
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+**API:** [Swagger Documentation](https://tprice.softvenceomegaforce.cloud/api/docs)
 
 ---
 
-### Franchys ERP & Commerce Platform
+### Franchys — ERP & Commerce Platform
 
-🔗 **API Documentation:** https://franchys.dynv6.net/api/v1/docs
+Enterprise ERP and commerce platform developed for a client, supporting quotations, customer management, invoicing, job workflows, vendor management, analytics, and automated communications.
 
-Enterprise commerce platform supporting quotations, customer management, invoicing, job workflows, vendor management, analytics, and automated communications.
-
-**Key Contributions**
+**My Contribution**
 - Developed modular backend services using NestJS.
 - Built APIs for quotations, invoices, customers, and vendors.
 - Implemented asynchronous background processing with Redis and BullMQ.
 - Integrated Stripe, Cloudinary, Email, and WhatsApp services.
-- Designed scalable PostgreSQL data models with Prisma ORM.
+- Designed PostgreSQL data models using Prisma ORM.
 
-**Tech Stack**
+**Stack:** NestJS · TypeScript · PostgreSQL · Prisma · Redis · BullMQ · Stripe · Cloudinary · Docker
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-EF4444?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+**API:** [Swagger Documentation](https://franchys.dynv6.net/api/v1/docs)
 
 ---
 
-### IKON SKILLS™ Learning Platform
+### IKON SKILLS™ — Learning Platform
 
-🔗 **User Portal:** http://ikonskills.ac/
+Enterprise EdTech platform developed for a client, supporting micro-credentialing, competency verification, degree pathways, and academic administration.
 
-🔗 **Admin Portal:** http://admin.ikonskills.ac/
-
-Enterprise EdTech platform for micro-credentialing, competency verification, degree pathway management, and academic administration.
-
-**Key Contributions**
-- Developed and maintained production features for both user and admin portals.
+**My Contribution**
+- Developed and maintained production features for user and admin portals.
 - Built responsive interfaces using Next.js App Router and TypeScript.
 - Integrated REST APIs and authentication workflows.
 - Implemented dashboard modules, forms, and data management features.
-- Improved application performance and overall user experience.
+- Improved application performance and user experience.
 
-**Tech Stack**
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · TanStack Query · Zustand
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+**Platforms:** [User Portal](http://ikonskills.ac/) · [Admin Portal](http://admin.ikonskills.ac/)
 
 ---
 
-### OCReels Platform
+### OCReels — Media Platform
 
-🔗 **Live:** https://ocreels.com
+Production media streaming platform developed for a client, featuring creator content management, video streaming, casino directories, and an administrative dashboard.
 
-Production media streaming platform featuring creator content management, video streaming, casino directories, and an administrative dashboard.
-
-**Key Contributions**
-- Developed responsive production-ready UI components.
+**My Contribution**
+- Developed responsive production UI components.
 - Implemented dashboard features and business workflows.
 - Integrated REST APIs using Redux Toolkit for state management.
 - Contributed to Progressive Web App (PWA) functionality.
 - Maintained production features, resolved issues, and optimized performance.
 
-**Tech Stack**
+**Stack:** React · TypeScript · Vite · Redux Toolkit · Tailwind CSS · PWA
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+**Live:** [OCReels](https://ocreels.com)
 
 ---
+
+## 🚀 Personal Projects
+
+### Gram2City — Logistics & Delivery Platform
+
+Full-stack logistics and delivery platform for managing parcels, riders, customers, finance, support, and real-time communication.
+
+**Highlights**
+- Built a full-stack logistics management platform with separate frontend and backend applications.
+- Implemented role-based dashboards and workflows for different user types.
+- Developed REST APIs and real-time communication features using Socket.IO.
+- Integrated authentication, payment workflows, parcel management, and delivery operations.
+- Implemented responsive interfaces and production-focused application architecture.
+
+**Stack:** Next.js · TypeScript · Node.js · Express.js · MongoDB · Firebase · Socket.IO · Stripe · Docker
+
+**Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
+
+---
+
+### CareCamp — Medical Camp Management Platform
+
+Full-stack medical camp management platform connecting participants and organizers through camp discovery, registration, payments, dashboards, analytics, and feedback.
+
+**Highlights**
+- Built participant and organizer workflows with role-based access.
+- Implemented medical camp discovery, registration, and management.
+- Integrated Firebase authentication with email/password and Google sign-in.
+- Implemented Stripe payment workflows and payment history.
+- Developed dashboards, analytics, feedback, and rating features.
+
+**Stack:** React · Vite · JavaScript · Tailwind CSS · Firebase · React Router · TanStack Query · Stripe
+
+**Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
+
+---
+
+### GoalPilot AI — AI Goal Planning & Progress Tracking
+
+AI-powered goal planning and progress tracking application that transforms user goals into structured plans, daily tasks, and personalized progress feedback.
+
+**Highlights**
+- Built AI-powered goal analysis and planning workflows.
+- Generated structured daily tasks based on user goals and timelines.
+- Implemented task completion and progress tracking.
+- Added AI-powered progress evaluation and personalized recommendations.
+- Developed REST APIs with Swagger/OpenAPI documentation.
+
+**Stack:** Node.js · Express.js · JavaScript · OpenAI SDK · OpenRouter · REST API · Swagger
+
+**Repository:** [GitHub](YOUR_LINK)
+
+---
+
+### GearUp — Sports & Outdoor Equipment Rental
+
+Full-stack sports and outdoor equipment rental platform supporting customers, providers, and administrators.
+
+**Highlights**
+- Built customer workflows for browsing, renting, and managing equipment.
+- Developed provider features for equipment, inventory, and rental management.
+- Implemented admin functionality for users, equipment, categories, and orders.
+- Integrated Stripe and SSLCommerz payment workflows.
+- Implemented authentication, role-based access, order tracking, and reviews.
+
+**Stack:** Next.js · React · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · JWT · Stripe · SSLCommerz
+
+**Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
 
 
 ## 🌍 Connect With Me
