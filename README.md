@@ -59,15 +59,6 @@ I'm a Jr. Full Stack Developer passionate about building scalable web applicatio
 
 ---
 
-## 🔥 Current Activities
-
-- Developing production-ready full-stack applications at Softvence Agency.
-- Building scalable solutions with Next.js, NestJS, and PostgreSQL.
-- Containerizing and deploying applications using Docker.
-- Continuously learning System Design and Software Architecture.
-
----
-
 ## 🛠️ Skills
 
 ### 🧩 **Frontend**
