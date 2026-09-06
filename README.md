@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo&fontSize=40&fontAlignY=35&desc=Jr.%20Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20NestJS%20%7C%20PostgreSQL%20%7C%20Docker&descAlignY=55&descAlign=50" alt="Banner"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahid%20Hasan%20Shuvo&fontSize=40&fontAlignY=35&desc=Jr.%20Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20NestJS%20%7C%20PostgreSQL%20%7C%20Docker%20%7C%20Redis&descAlignY=55&descAlign=50" alt="Banner"/> 
 </div>
 
 <!-- Contact Badges -->
