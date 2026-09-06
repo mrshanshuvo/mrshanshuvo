@@ -29,35 +29,31 @@ My interests include backend engineering, API design, system architecture, cloud
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Jr. Full Stack Developer
-**Softvence Agency** · Jul 2026 – Present
+**Softvence Agency** · Aug 2026 – Present
 
-- Developing and maintaining enterprise-grade web applications using Next.js and NestJS.
-- Building scalable REST APIs with PostgreSQL and Prisma ORM.
-- Delivering production features for EdTech, e-commerce, and media platforms.
-- Collaborating with cross-functional teams using Agile methodologies and Git-based workflows.
-
----
+- Develop and maintain production web applications using Next.js and NestJS.
+- Build REST APIs and backend modules with PostgreSQL and Prisma ORM.
+- Implement authentication, authorization, business workflows, and data management features.
+- Work with Docker and Git-based development workflows in a collaborative engineering environment.
 
 ### Frontend Developer
-**Softvence Agency** · Jan 2026 – Jun 2026
+**Softvence Agency** · Jan 2026 – Jul 2026
 
 - Developed responsive web applications using Next.js, React, and TypeScript.
 - Built reusable UI components and integrated REST APIs.
-- Collaborated with backend engineers to deliver production-ready features.
-- Optimized application performance and user experience.
-
----
+- Implemented dashboard interfaces, forms, and business workflows.
+- Collaborated with backend engineers to deliver production features.
 
 ### Frontend Developer Intern
 **Zensoft Lab** · Sep 2025 – Dec 2025
 
-- Assisted in developing responsive web applications using React.js and modern frontend technologies.
-- Implemented UI components and integrated REST APIs.
-- Collaborated with senior developers following industry-standard development practices.
-- Gained hands-on experience with Git workflows, code reviews, and Agile development.
+- Developed responsive interfaces using React and modern frontend technologies.
+- Built reusable UI components and integrated REST APIs.
+- Worked with Git workflows, code reviews, and collaborative development practices.
+- Gained practical experience in frontend development and Agile workflows.
 
 ---
 
