@@ -222,27 +222,6 @@ Production media streaming platform featuring creator content management, video 
 
 Currently working as a **Jr. Full Stack Developer** at **Softvence Agency**, building scalable, production-ready web applications using Next.js, NestJS, PostgreSQL, and Docker.
 Interested in backend engineering, cloud technologies, distributed systems, software architecture, and high-performance application design.
-
----
-
-## 💼 Professional Value
-
-- Production experience delivering enterprise web applications for international clients.
-- Developed and maintained scalable REST APIs using NestJS and Express.js.
-- Designed and managed relational databases with PostgreSQL and Prisma ORM.
-- Implemented secure authentication and role-based authorization using JWT.
-- Built modular, maintainable applications following clean architecture and best practices.
-- Worked with Docker-based development environments and deployment workflows.
-- Experienced with Git-based collaborative development, code reviews, and team workflows.
-- Experience delivering production features from design through deployment while collaborating in cross-functional teams.
-
----
-
-## 🌟 Beyond Development
-
-- **Continuous Learning:** System Design, Cloud Computing, Software Architecture, and DevOps.
-- **Backend Engineering:** Exploring scalable APIs, distributed systems, and performance optimization.
-- **Open Source:** Building reusable developer tools and contributing to open-source projects.
 ---
 
 <p align="center">
