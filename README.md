@@ -55,7 +55,7 @@ My interests include backend engineering, API design, system architecture, cloud
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### 🧩 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
