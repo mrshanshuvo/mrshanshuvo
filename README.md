@@ -244,18 +244,6 @@ Full-stack sports and outdoor equipment rental platform supporting customers, pr
 
 **Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
 
-
-## 🌍 Connect With Me
-
-- 📧 **Email:** [mrshanshuvo@gmail.com](mailto:mrshanshuvo@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/shahidhasanshovu](https://www.linkedin.com/in/shahidhasanshovu/)  
-
----
-
-## 🚀 Currently
-
-Currently working as a **Jr. Full Stack Developer** at **Softvence Agency**, building scalable, production-ready web applications using Next.js, NestJS, PostgreSQL, and Docker.
-Interested in backend engineering, cloud technologies, distributed systems, software architecture, and high-performance application design.
 ---
 
 <p align="center">
