@@ -17,7 +17,7 @@
   </a>
 </div>
 
-## 💫 About Me
+## About Me
 
 I'm a Full Stack Developer focused on building scalable and maintainable web applications. I work primarily with Next.js, NestJS, PostgreSQL, and modern JavaScript/TypeScript technologies.
 
