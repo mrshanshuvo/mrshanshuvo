@@ -17,13 +17,13 @@
   </a>
 </div>
 
-## <img src="./assets/icons/user.svg" height="24" align="top"> About Me
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/user-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/user-light.svg"><img src="./assets/icons/user-dark.svg" alt="" height="24" align="top"></picture> About Me
 
 I'm a Full Stack Developer focused on building scalable and maintainable web applications. I work primarily with Next.js, NestJS, PostgreSQL, and modern JavaScript/TypeScript technologies.
 
 My interests include backend engineering, API design, system architecture, cloud technologies, and production-ready application development.
 
-## <img src="./assets/icons/briefcase.svg" height="24" align="top"> Experience
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/briefcase-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/briefcase-light.svg"><img src="./assets/icons/briefcase-dark.svg" alt="" height="24" align="top"></picture> Experience
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/exp-1-dark.svg">
@@ -58,9 +58,9 @@ My interests include backend engineering, API design, system architecture, cloud
 - Worked with Git workflows, code reviews, and collaborative development practices.
 - Gained practical experience in frontend development and Agile workflows.
 
-## <img src="./assets/icons/wrench.svg" height="24" align="top"> Technical Skills
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/wrench-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/wrench-light.svg"><img src="./assets/icons/wrench-dark.svg" alt="" height="24" align="top"></picture> Technical Skills
 
-### <img src="./assets/icons/frontend.svg" height="20" align="top"> Frontend
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/frontend-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/frontend-light.svg"><img src="./assets/icons/frontend-dark.svg" alt="" height="20" align="top"></picture> Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -72,7 +72,7 @@ My interests include backend engineering, API design, system architecture, cloud
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-### <img src="./assets/icons/backend.svg" height="20" align="top"> Backend
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/backend-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/backend-light.svg"><img src="./assets/icons/backend-dark.svg" alt="" height="20" align="top"></picture> Backend
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -83,20 +83,20 @@ My interests include backend engineering, API design, system architecture, cloud
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### <img src="./assets/icons/database.svg" height="20" align="top"> Database
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/database-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/database-light.svg"><img src="./assets/icons/database-dark.svg" alt="" height="20" align="top"></picture> Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### <img src="./assets/icons/lock.svg" height="20" align="top"> Authentication & Integrations
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/lock-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/lock-light.svg"><img src="./assets/icons/lock-dark.svg" alt="" height="20" align="top"></picture> Authentication & Integrations
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### <img src="./assets/icons/terminal.svg" height="20" align="top"> DevOps & Tools
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/terminal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/terminal-light.svg"><img src="./assets/icons/terminal-dark.svg" alt="" height="20" align="top"></picture> DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -105,82 +105,86 @@ My interests include backend engineering, API design, system architecture, cloud
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### <img src="./assets/icons/bot.svg" height="20" align="top"> AI & Automation
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/bot-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/bot-light.svg"><img src="./assets/icons/bot-dark.svg" alt="" height="20" align="top"></picture> AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### <img src="./assets/icons/layers.svg" height="20" align="top"> Engineering
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/layers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/layers-light.svg"><img src="./assets/icons/layers-dark.svg" alt="" height="20" align="top"></picture> Engineering
 
 **Authentication** · **Authorization** · **RBAC** · **API Design** · **Database Design** · **System Design** · **Data Validation** · **Real-Time Communication** · **Background Processing**
 
-## <img src="./assets/icons/folder.svg" height="24" align="top"> Professional Projects
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/folder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/folder-light.svg"><img src="./assets/icons/folder-dark.svg" alt="" height="24" align="top"></picture> Professional Projects
 
-### TPrice — Marketplace Platform
+
+### Exotic World — Marketplace Platform
 
 Marketplace platform developed for a client, supporting products, users, orders, and payment workflows.
 
-**My Contribution**
+**Role:** Backend Developer
 
-- Developed and maintained NestJS REST APIs and backend modules.
-- Implemented JWT authentication and role-based access control (RBAC).
-- Designed PostgreSQL data models using Prisma ORM.
-- Integrated Stripe payment workflows.
-- Contributed to production features and backend development.
+**My Contribution**
+- Built 10+ REST API modules covering products, users, orders, and payments with NestJS. <!-- VERIFY -->
+- Implemented JWT authentication with 3-role RBAC (admin, vendor, customer). <!-- VERIFY -->
+- Designed 12+ PostgreSQL data models with Prisma ORM. <!-- VERIFY -->
+- Integrated Stripe payment workflows for checkout and order processing.
+- Shipped features to production in a collaborative team using Docker and Git workflows.
 
 **Stack:** NestJS · TypeScript · PostgreSQL · Prisma · JWT · Stripe · Docker
 
-**API:** [Swagger Documentation](https://tprice.softvenceomegaforce.cloud/api/docs)
+**Live:** [Exotic World](https://exoticworldinc.com/)
 
 ### Franchys — ERP & Commerce Platform
 
 ERP and commerce platform developed for a client, supporting quotations, customer management, invoicing, job workflows, vendor management, analytics, and automated communications.
 
-**My Contribution**
+**Role:** Backend Developer
 
-- Developed modular backend services using NestJS.
-- Built APIs for quotations, invoices, customers, and vendors.
-- Implemented asynchronous background processing with Redis and BullMQ.
-- Integrated Stripe, Cloudinary, Email, and WhatsApp services.
-- Designed PostgreSQL data models using Prisma ORM.
+**My Contribution**
+- Built 15+ modular NestJS services for quotations, invoices, customers, jobs, and vendors. <!-- VERIFY -->
+- Implemented asynchronous background processing with Redis and BullMQ for 3+ job types (emails, notifications, WhatsApp messages). <!-- VERIFY -->
+- Integrated 4 third-party services: Stripe, Cloudinary, Email, and WhatsApp.
+- Designed 20+ PostgreSQL data models with Prisma ORM. <!-- VERIFY -->
 
 **Stack:** NestJS · TypeScript · PostgreSQL · Prisma · Redis · BullMQ · Stripe · Cloudinary · Docker
 
-**API:** [Swagger Documentation](https://franchys.dynv6.net/api/v1/docs)
+**Live:** [Franchys](https://franchys.dynv6.net/)
 
 ### IKON SKILLS™ — Learning Platform
 
 Enterprise EdTech platform developed for a client, supporting micro-credentialing, competency verification, degree pathways, and academic administration.
 
-**My Contribution**
+**Role:** Frontend Developer
 
-- Developed and maintained production features for user and admin portals.
-- Built responsive interfaces using Next.js App Router and TypeScript.
-- Integrated REST APIs and authentication workflows.
-- Implemented dashboard modules, forms, and data management features.
-- Improved application performance and user experience.
+**My Contribution**
+- Built 20+ responsive pages across user and admin portals with Next.js App Router and TypeScript. <!-- VERIFY -->
+- Integrated 30+ REST API endpoints with authentication flows and role-based routes. <!-- VERIFY -->
+- Implemented dashboard modules, multi-step forms, and data tables for admin workflows.
+- Managed server state with TanStack Query and client state with Zustand, reducing redundant API calls.
+- Improved performance and user experience across both portals.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · TanStack Query · Zustand
 
-**Platforms:** [User Portal](http://ikonskills.ac/) · [Admin Portal](http://admin.ikonskills.ac/)
+**Platforms:** [User Portal](https://ikonskills.ac/) · [Admin Portal](https://admin.ikonskills.ac/)
 
 ### OCReels — Media Platform
 
 Production media streaming platform developed for a client, featuring creator content management, video streaming, casino directories, and an administrative dashboard.
 
-**My Contribution**
+**Role:** Frontend Developer
 
-- Developed responsive production UI components.
-- Implemented dashboard features and business workflows.
-- Integrated REST APIs using Redux Toolkit for state management.
-- Contributed to Progressive Web App (PWA) functionality.
-- Maintained production features, resolved issues, and optimized performance.
+**My Contribution**
+- Built 15+ reusable, responsive UI components for creator, streaming, and directory pages. <!-- VERIFY -->
+- Implemented admin dashboard features and business workflows.
+- Integrated REST APIs with Redux Toolkit for centralized state management.
+- Contributed to Progressive Web App (PWA) functionality, including installability and offline support. <!-- VERIFY -->
+- Resolved production issues and optimized performance for a live audience.
 
 **Stack:** React · TypeScript · Vite · Redux Toolkit · Tailwind CSS · PWA
 
 **Live:** [OCReels](https://ocreels.com)
 
-## <img src="./assets/icons/code.svg" height="24" align="top"> Personal Projects
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/code-light.svg"><img src="./assets/icons/code-dark.svg" alt="" height="24" align="top"></picture> Personal Projects
 
 ### Gram2City — Logistics & Delivery Platform
 
@@ -230,7 +234,7 @@ AI-powered goal planning and progress tracking application that transforms user 
 
 **Repository:** [GitHub](https://github.com/mrshanshuvo/goalpilot-ai)
 
-## <img src="./assets/icons/chart.svg" height="24" align="top"> GitHub Analytics
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/chart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/chart-light.svg"><img src="./assets/icons/chart-dark.svg" alt="" height="24" align="top"></picture> GitHub Analytics
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrshanshuvo&theme=github_dark" />
