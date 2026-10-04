@@ -107,16 +107,6 @@ My interests include backend engineering, API design, system architecture, cloud
 
 **Authentication** · **Authorization** · **RBAC** · **API Design** · **Database Design** · **System Design** · **Data Validation** · **Real-Time Communication** · **Background Processing**
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrshanshuvo&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mrshanshuvo&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ## 📂 Professional Projects
 
@@ -226,6 +216,17 @@ AI-powered goal planning and progress tracking application that transforms user 
 **Stack:** Node.js · Express.js · JavaScript · OpenAI SDK · OpenRouter · REST API · Swagger
 
 **Repository:** [GitHub](https://github.com/mrshanshuvo/goalpilot-ai)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrshanshuvo&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mrshanshuvo&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" /><br>
