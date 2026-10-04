@@ -23,8 +23,6 @@ I'm a Full Stack Developer focused on building scalable and maintainable web app
 
 My interests include backend engineering, API design, system architecture, cloud technologies, and production-ready application development.
 
----
-
 ## Experience
 
 ### Jr. Full Stack Developer
@@ -50,8 +48,6 @@ My interests include backend engineering, API design, system architecture, cloud
 - Built reusable UI components and integrated REST APIs.
 - Worked with Git workflows, code reviews, and collaborative development practices.
 - Gained practical experience in frontend development and Agile workflows.
-
----
 
 ## 🛠️ Technical Skills
 
@@ -102,7 +98,6 @@ My interests include backend engineering, API design, system architecture, cloud
 ### 🏗️ **Engineering**
 
 **Authentication** · **Authorization** · **RBAC** · **API Design** · **Database Design** · **System Design** · **Data Validation** · **Real-Time Communication** · **Background Processing**
----
 
 ## 📊 GitHub Analytics
 
@@ -114,8 +109,6 @@ My interests include backend engineering, API design, system architecture, cloud
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mrshanshuvo&theme=github_dark&hide_border=true" />
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrshanshuvo&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
----
 
 ## 📂 Professional Projects
 
@@ -134,8 +127,6 @@ Marketplace platform developed for a client, supporting products, users, orders,
 
 **API:** [Swagger Documentation](https://tprice.softvenceomegaforce.cloud/api/docs)
 
----
-
 ### Franchys — ERP & Commerce Platform
 
 ERP and commerce platform developed for a client, supporting quotations, customer management, invoicing, job workflows, vendor management, analytics, and automated communications.
@@ -150,8 +141,6 @@ ERP and commerce platform developed for a client, supporting quotations, custome
 **Stack:** NestJS · TypeScript · PostgreSQL · Prisma · Redis · BullMQ · Stripe · Cloudinary · Docker
 
 **API:** [Swagger Documentation](https://franchys.dynv6.net/api/v1/docs)
-
----
 
 ### IKON SKILLS™ — Learning Platform
 
@@ -168,8 +157,6 @@ Enterprise EdTech platform developed for a client, supporting micro-credentialin
 
 **Platforms:** [User Portal](http://ikonskills.ac/) · [Admin Portal](http://admin.ikonskills.ac/)
 
----
-
 ### OCReels — Media Platform
 
 Production media streaming platform developed for a client, featuring creator content management, video streaming, casino directories, and an administrative dashboard.
@@ -184,8 +171,6 @@ Production media streaming platform developed for a client, featuring creator co
 **Stack:** React · TypeScript · Vite · Redux Toolkit · Tailwind CSS · PWA
 
 **Live:** [OCReels](https://ocreels.com)
-
----
 
 ## 🚀 Personal Projects
 
@@ -204,8 +189,6 @@ Full-stack logistics and delivery platform for managing parcels, riders, custome
 
 **Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
 
----
-
 ### CareCamp — Medical Camp Management Platform
 
 Full-stack medical camp management platform connecting participants and organizers through camp discovery, registration, payments, dashboards, analytics, and feedback.
@@ -221,8 +204,6 @@ Full-stack medical camp management platform connecting participants and organize
 
 **Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
 
----
-
 ### GoalPilot AI — AI Goal Planning & Progress Tracking
 
 AI-powered goal planning and progress tracking application that transforms user goals into structured plans, daily tasks, and personalized progress feedback.
@@ -237,8 +218,6 @@ AI-powered goal planning and progress tracking application that transforms user 
 **Stack:** Node.js · Express.js · JavaScript · OpenAI SDK · OpenRouter · REST API · Swagger
 
 **Repository:** [GitHub](YOUR_LINK)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" /><br>
