@@ -57,9 +57,11 @@ My interests include backend engineering, API design, system architecture, cloud
 - Built reusable UI components and integrated REST APIs.
 - Worked with Git workflows, code reviews, and collaborative development practices.
 - Gained practical experience in frontend development and Agile workflows.
+
 ## <img src="./assets/icons/wrench.svg" height="24" align="top"> Technical Skills
 
 ### <img src="./assets/icons/frontend.svg" height="20" align="top"> Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,6 +73,7 @@ My interests include backend engineering, API design, system architecture, cloud
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ### <img src="./assets/icons/backend.svg" height="20" align="top"> Backend
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -81,17 +84,20 @@ My interests include backend engineering, API design, system architecture, cloud
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### <img src="./assets/icons/database.svg" height="20" align="top"> Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### <img src="./assets/icons/lock.svg" height="20" align="top"> Authentication & Integrations
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ### <img src="./assets/icons/terminal.svg" height="20" align="top"> DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,13 +106,13 @@ My interests include backend engineering, API design, system architecture, cloud
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### <img src="./assets/icons/bot.svg" height="20" align="top"> AI & Automation
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### <img src="./assets/icons/layers.svg" height="20" align="top"> Engineering
 
 **Authentication** · **Authorization** · **RBAC** · **API Design** · **Database Design** · **System Design** · **Data Validation** · **Real-Time Communication** · **Background Processing**
-
 
 ## <img src="./assets/icons/folder.svg" height="24" align="top"> Professional Projects
 
@@ -115,6 +121,7 @@ My interests include backend engineering, API design, system architecture, cloud
 Marketplace platform developed for a client, supporting products, users, orders, and payment workflows.
 
 **My Contribution**
+
 - Developed and maintained NestJS REST APIs and backend modules.
 - Implemented JWT authentication and role-based access control (RBAC).
 - Designed PostgreSQL data models using Prisma ORM.
@@ -130,6 +137,7 @@ Marketplace platform developed for a client, supporting products, users, orders,
 ERP and commerce platform developed for a client, supporting quotations, customer management, invoicing, job workflows, vendor management, analytics, and automated communications.
 
 **My Contribution**
+
 - Developed modular backend services using NestJS.
 - Built APIs for quotations, invoices, customers, and vendors.
 - Implemented asynchronous background processing with Redis and BullMQ.
@@ -145,6 +153,7 @@ ERP and commerce platform developed for a client, supporting quotations, custome
 Enterprise EdTech platform developed for a client, supporting micro-credentialing, competency verification, degree pathways, and academic administration.
 
 **My Contribution**
+
 - Developed and maintained production features for user and admin portals.
 - Built responsive interfaces using Next.js App Router and TypeScript.
 - Integrated REST APIs and authentication workflows.
@@ -160,6 +169,7 @@ Enterprise EdTech platform developed for a client, supporting micro-credentialin
 Production media streaming platform developed for a client, featuring creator content management, video streaming, casino directories, and an administrative dashboard.
 
 **My Contribution**
+
 - Developed responsive production UI components.
 - Implemented dashboard features and business workflows.
 - Integrated REST APIs using Redux Toolkit for state management.
@@ -177,6 +187,7 @@ Production media streaming platform developed for a client, featuring creator co
 Full-stack logistics and delivery platform for managing parcels, riders, customers, finance, support, and real-time communication.
 
 **Highlights**
+
 - Built a full-stack logistics management platform with separate frontend and backend applications.
 - Implemented role-based dashboards and workflows for different user types.
 - Developed REST APIs and real-time communication features using Socket.IO.
@@ -192,6 +203,7 @@ Full-stack logistics and delivery platform for managing parcels, riders, custome
 Full-stack medical camp management platform connecting participants and organizers through camp discovery, registration, payments, dashboards, analytics, and feedback.
 
 **Highlights**
+
 - Built participant and organizer workflows with role-based access.
 - Implemented medical camp discovery, registration, and management.
 - Integrated Firebase authentication with email/password and Google sign-in.
@@ -207,6 +219,7 @@ Full-stack medical camp management platform connecting participants and organize
 AI-powered goal planning and progress tracking application that transforms user goals into structured plans, daily tasks, and personalized progress feedback.
 
 **Highlights**
+
 - Built AI-powered goal analysis and planning workflows.
 - Generated structured daily tasks based on user goals and timelines.
 - Implemented task completion and progress tracking.
