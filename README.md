@@ -25,27 +25,38 @@ My interests include backend engineering, API design, system architecture, cloud
 
 ## Experience
 
-<img src="./assets/exp-1.svg" alt="Jr. Full Stack Developer — Softvence Agency · Aug 2026 – Present" width="100%" align="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/exp-1-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/exp-1-light.svg">
+  <img src="./assets/exp-1-dark.svg" alt="Jr. Full Stack Developer — Softvence Agency · Aug 2026 – Present" width="100%" align="top">
+</picture>
 
 - Develop and maintain production web applications using Next.js and NestJS.
 - Build REST APIs and backend modules with PostgreSQL and Prisma ORM.
 - Implement authentication, authorization, business workflows, and data management features.
 - Work with Docker and Git-based development workflows in a collaborative engineering environment.
 
-<img src="./assets/exp-2.svg" alt="Frontend Developer — Softvence Agency · Jan 2026 – Jul 2026" width="100%" align="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/exp-2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/exp-2-light.svg">
+  <img src="./assets/exp-2-dark.svg" alt="Frontend Developer — Softvence Agency · Jan 2026 – Jul 2026" width="100%" align="top">
+</picture>
 
 - Developed responsive web applications using Next.js, React, and TypeScript.
 - Built reusable UI components and integrated REST APIs.
 - Implemented dashboard interfaces, forms, and business workflows.
 - Collaborated with backend engineers to deliver production features.
 
-<img src="./assets/exp-3.svg" alt="Frontend Developer Intern — Zensoft Lab · Sep 2025 – Dec 2025" width="100%" align="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/exp-3-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/exp-3-light.svg">
+  <img src="./assets/exp-3-dark.svg" alt="Frontend Developer Intern — Zensoft Lab · Sep 2025 – Dec 2025" width="100%" align="top">
+</picture>
 
 - Developed responsive interfaces using React and modern frontend technologies.
 - Built reusable UI components and integrated REST APIs.
 - Worked with Git workflows, code reviews, and collaborative development practices.
 - Gained practical experience in frontend development and Agile workflows.
-
 ## 🛠️ Technical Skills
 
 ### 🧩 **Frontend**
