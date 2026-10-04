@@ -172,6 +172,9 @@ Production media streaming platform developed for a client, featuring creator co
 
 ## 🚀 Personal Projects
 
+<details>
+<summary><b>Show personal projects (Gram2City, CareCamp, GoalPilot AI)</b></summary>
+
 ### Gram2City — Logistics & Delivery Platform
 
 Full-stack logistics and delivery platform for managing parcels, riders, customers, finance, support, and real-time communication.
@@ -216,6 +219,8 @@ AI-powered goal planning and progress tracking application that transforms user 
 **Stack:** Node.js · Express.js · JavaScript · OpenAI SDK · OpenRouter · REST API · Swagger
 
 **Repository:** [GitHub](https://github.com/mrshanshuvo/goalpilot-ai)
+
+</details>
 
 ## 📊 GitHub Analytics
 
