@@ -25,24 +25,36 @@ My interests include backend engineering, API design, system architecture, cloud
 
 ## Experience
 
-### Jr. Full Stack Developer
-**Softvence Agency** · Aug 2026 – Present
+<table width="100%">
+<tr>
+<td align="left"><h3>Jr. Full Stack Developer</h3></td>
+<td align="right"><b>Softvence Agency</b> · Aug 2026 – Present</td>
+</tr>
+</table>
 
 - Develop and maintain production web applications using Next.js and NestJS.
 - Build REST APIs and backend modules with PostgreSQL and Prisma ORM.
 - Implement authentication, authorization, business workflows, and data management features.
 - Work with Docker and Git-based development workflows in a collaborative engineering environment.
 
-### Frontend Developer
-**Softvence Agency** · Jan 2026 – Jul 2026
+<table width="100%">
+<tr>
+<td align="left"><h3>Frontend Developer</h3></td>
+<td align="right"><b>Softvence Agency</b> · Jan 2026 – Jul 2026</td>
+</tr>
+</table>
 
 - Developed responsive web applications using Next.js, React, and TypeScript.
 - Built reusable UI components and integrated REST APIs.
 - Implemented dashboard interfaces, forms, and business workflows.
 - Collaborated with backend engineers to deliver production features.
 
-### Frontend Developer Intern
-**Zensoft Lab** · Sep 2025 – Dec 2025
+<table width="100%">
+<tr>
+<td align="left"><h3>Frontend Developer Intern</h3></td>
+<td align="right"><b>Zensoft Lab</b> · Sep 2025 – Dec 2025</td>
+</tr>
+</table>
 
 - Developed responsive interfaces using React and modern frontend technologies.
 - Built reusable UI components and integrated REST APIs.
