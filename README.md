@@ -195,7 +195,7 @@ Full-stack logistics and delivery platform for managing parcels, riders, custome
 
 **Stack:** Next.js · TypeScript · Node.js · Express.js · MongoDB · Firebase · Socket.IO · Stripe · Docker
 
-**Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
+**Repositories:** [Frontend](https://github.com/mrshanshuvo/gram2city-frontend) · [Backend](https://github.com/mrshanshuvo/gram2city-backend)
 
 ### CareCamp — Medical Camp Management Platform
 
@@ -210,7 +210,7 @@ Full-stack medical camp management platform connecting participants and organize
 
 **Stack:** React · Vite · JavaScript · Tailwind CSS · Firebase · React Router · TanStack Query · Stripe
 
-**Repositories:** [Frontend](YOUR_LINK) · [Backend](YOUR_LINK)
+**Repositories:** [Frontend](https://github.com/mrshanshuvo/carecamp-frontend) · [Backend](https://github.com/mrshanshuvo/carecamp-backend)
 
 ### GoalPilot AI — AI Goal Planning & Progress Tracking
 
@@ -225,7 +225,7 @@ AI-powered goal planning and progress tracking application that transforms user 
 
 **Stack:** Node.js · Express.js · JavaScript · OpenAI SDK · OpenRouter · REST API · Swagger
 
-**Repository:** [GitHub](YOUR_LINK)
+**Repository:** [GitHub](https://github.com/mrshanshuvo/goalpilot-ai)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshanshuvo&color=blue&style=flat-square" /><br>
