@@ -1,0 +1,5 @@
+# Secrets & editor defense
+.env
+.env.*
+*.env
+.vscode/
