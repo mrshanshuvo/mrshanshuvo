@@ -180,7 +180,75 @@ Production media streaming platform developed for a client, featuring creator co
 
 **Live:** [OCReels](https://ocreels.com)
 
-## <img src="./assets/icons/code.svg" height="24" align="top"> Personal Projects
+## <img src="./assets/icons/code.svg" height="24" align="top"> Featured Projects
+
+### Praman — Deterministic Resume Tailoring & ATS Ledger
+
+AI-powered resume tailoring platform that produces zero-hallucination resumes with deterministic ATS scoring and sub-second PDF generation.
+
+**Highlights**
+
+- Engineered an immutable JSON-LD validation ledger comparing resume claims against job descriptions with zero hallucination.
+- Implemented real-time sub-second PDF compilation via headless Chromium and NestJS microservices.
+- Built full-stack monorepo with Next.js 16 App Router, NestJS, PGlite, Zod schemas, and Turborepo.
+- Integrated Cloudflare R2 and PostgreSQL with Prisma ORM for deterministic document tracking.
+
+**Stack:** Next.js 16 · NestJS · TypeScript · PostgreSQL · Prisma · PGlite · Zod · Puppeteer · Turborepo · Docker
+
+**Platform:** [Live Demo](https://pramanito.vercel.app) · **Repository:** [GitHub](https://github.com/mrshanshuvo/praman)
+
+---
+
+### AI Recruiting Co-Worker — Autonomous Sourcing & Screening Engine
+
+Autonomous multi-agent recruiting system that orchestrates candidate sourcing, evaluation, and outreach sequences.
+
+**Highlights**
+
+- Implemented an asynchronous LLM pipeline using BullMQ and Redis handling 50+ candidate evaluations/min.
+- Integrated Google Gemini 2.5 Flash for deterministic candidate scoring against structured job criteria.
+- Developed real-time evaluation dashboard in React 19 with optimistic updates and live status telemetry.
+- Built fault-tolerant job workers with automatic retry queues, dead-letter triage, and structured logging.
+
+**Stack:** React 19 · Node.js · Express · TypeScript · MongoDB · Redis · BullMQ · Gemini 2.5 Flash · Vite
+
+**Repositories:** [Backend Engine](https://github.com/mrshanshuvo/ai-recruiting-backend) · [Frontend Dashboard](https://github.com/mrshanshuvo/ai-recruiting-frontend)
+
+---
+
+### JibonPath — Emergency Ambulance Dispatch & Telemetry Engine
+
+Mission-critical emergency ambulance dispatch and hospital telemetry platform for metropolitan trauma response.
+
+**Highlights**
+
+- Architected real-time bi-directional telemetry engine with Socket.IO delivering sub-100ms GPS updates.
+- Built interactive triage and routing map using Leaflet and OpenStreetMap for real-time ambulance tracking.
+- Designed accessible Lifeline design system with High-Contrast emergency mode meeting WCAG AAA compliance.
+- Integrated Stripe payment processing and role-based access control for hospitals, drivers, and patients.
+
+**Stack:** Next.js 16 · Node.js · Express · MongoDB · Socket.IO · Stripe · Leaflet · Tailwind CSS
+
+**Platform:** [Live Demo](https://jibonpath.vercel.app/) · **Repositories:** [Frontend](https://github.com/mrshanshuvo/jibonpath-frontend) · [Backend](https://github.com/mrshanshuvo/jibonpath-backend)
+
+---
+
+### GearUp — Sports & Outdoor Equipment Rental Marketplace
+
+Travel and outdoor gear rental platform with catalog filtering, real-time booking schedules, and secure payments.
+
+**Highlights**
+
+- Developed type-safe REST APIs with Express, TypeScript, and Prisma ORM against PostgreSQL.
+- Implemented Stripe checkout with automated webhook reconciliation and transactional inventory locking.
+- Built modern frontend using React 19, Tailwind CSS v4, and TanStack Query for instant client-side caching.
+- Designed role-based permissions separating customers, vendors, and marketplace administrators.
+
+**Stack:** React 19 · Tailwind CSS v4 · Express · TypeScript · PostgreSQL · Prisma · Stripe · Docker
+
+**Platform:** [Live Demo](https://gearup-frontend.vercel.app) · **Repositories:** [Frontend](https://github.com/mrshanshuvo/jatragear-frontend) · [Backend](https://github.com/mrshanshuvo/jatragear-backend)
+
+---
 
 ### Gram2City — Logistics & Delivery Platform
 
@@ -196,7 +264,9 @@ Full-stack logistics and delivery platform for managing parcels, riders, custome
 
 **Stack:** Next.js · TypeScript · Node.js · Express.js · MongoDB · Firebase · Socket.IO · Stripe · Docker
 
-**Repositories:** [Frontend](https://github.com/mrshanshuvo/gram2city-frontend) · [Backend](https://github.com/mrshanshuvo/gram2city-backend)
+**Platform:** [Live Demo](https://gram2city.vercel.app/) · **Repositories:** [Frontend](https://github.com/mrshanshuvo/gram2city-frontend) · [Backend](https://github.com/mrshanshuvo/gram2city-backend)
+
+---
 
 ### CareCamp — Medical Camp Management Platform
 
@@ -212,23 +282,7 @@ Full-stack medical camp management platform connecting participants and organize
 
 **Stack:** React · Vite · JavaScript · Tailwind CSS · Firebase · React Router · TanStack Query · Stripe
 
-**Repositories:** [Frontend](https://github.com/mrshanshuvo/carecamp-frontend) · [Backend](https://github.com/mrshanshuvo/carecamp-backend)
-
-### GoalPilot AI — AI Goal Planning & Progress Tracking
-
-AI-powered goal planning and progress tracking application that transforms user goals into structured plans, daily tasks, and personalized progress feedback.
-
-**Highlights**
-
-- Built AI-powered goal analysis and planning workflows.
-- Generated structured daily tasks based on user goals and timelines.
-- Implemented task completion and progress tracking.
-- Added AI-powered progress evaluation and personalized recommendations.
-- Developed REST APIs with Swagger/OpenAPI documentation.
-
-**Stack:** Node.js · Express.js · JavaScript · OpenAI SDK · OpenRouter · REST API · Swagger
-
-**Repository:** [GitHub](https://github.com/mrshanshuvo/goalpilot-ai)
+**Platform:** [Live Demo](https://mcms-web-client.vercel.app/) · **Repositories:** [Frontend](https://github.com/mrshanshuvo/carecamp-frontend) · [Backend](https://github.com/mrshanshuvo/carecamp-backend)
 
 ## <img src="./assets/icons/chart.svg" height="24" align="top"> GitHub Analytics
 
