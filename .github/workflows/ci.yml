@@ -1,0 +1,44 @@
+name: Profile Readme CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  security-guard:
+    name: Supply Chain Security Audit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Scan for Supply Chain Injection Artifacts
+        run: |
+          set -e
+          echo "Running Supply Chain Security Audit..."
+
+          PROHIBITED_FILES=("init" "api.js" "branch_structure.json" "config.bat" "temp_auto_push.bat" "temp_interactive_push.bat")
+          for f in "${PROHIBITED_FILES[@]}"; do
+            if [ -e "$f" ]; then
+              echo "🚨 CRITICAL: Known supply-chain attack artifact detected: $f"
+              exit 1
+            fi
+          done
+
+          if ls .ci-* 1> /dev/null 2>&1; then
+            echo "🚨 CRITICAL: Detected suspicious .ci-* script pattern!"
+            exit 1
+          fi
+
+          if git ls-files | grep -E "(^|/)\.env$"; then
+            echo "🚨 CRITICAL: Root or nested .env secret file is tracked in git!"
+            exit 1
+          fi
+
+          echo "✅ Supply Chain Security Audit PASSED! All integrity checks clean."
